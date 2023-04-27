@@ -9,6 +9,8 @@ The dataset includes data from the following competitions:
 
 **1. Myocardial infarction**
 
+This dataset contains 175 STEMI ECGs (n. STEMI-LMCA = 2; n. STEMI-LAD = 95; n. STEMI-LCx = 12; n. STEMI-RCA = 66), 137 NSTEMI ECGs, and 138 not-AMI ECGs. All ECGs were obtained from the emergency department, while STEMI and NSTEMI were annotated by follow-up cardiac catheterization results. The baseline model has been published in [EuroIntervention, 17(9):765-773.](https://eurointervention.pcronline.com/article/a-deep-learning-algorithm-for-detecting-acute-myocardial-infarction). Using the sum of four STEMI likelihood (AI[STEMI-LMCA] + AI[STEMI-LAD] + AI[STEMI-LCx] + AI[STEMI-RCA]) to distinguish STEMI (LABEL[STEMI-LMCA] + LABEL[STEMI-LAD] + LABEL[STEMI-LCx] + LABEL[STEMI-RCA]) or not (LABEL[NSTEMI] + LABEL[Normal]), an area under receiver operating characteristic curve (AUC) of 0.9717 will be presented. There are some tricks to improve this AUC, like adding up the likelihood of NSTEMI. Therefore, the AUC here is different with the published paper. However, this simple example still can be used as a reference for future benchmark. The AUC is 0.8586 using the likelihood of NSTEMI (AI[NSTEMI]) to identify NSTEMI (LABEL[NSTEMI]). The ROC curve and human accuracies were shown as follows.
+
 <img src="result/myocardial infarction.png" width="875px"/>
 
 **2. Arrhythmia**
@@ -53,7 +55,7 @@ Each dataset is stored as a CSV file, with each row representing a single ECG re
 
 ### user_results.csv
 
-**DOCTOR_ID**: The human's specialty and level of experience.
+**DOCTOR_ID**: The human's specialty and level of experience. **CV** means cardiologist; **ER** means emergency physicians; **V[..]** means the year of attending physician;  **R[..]** means the year of resident; **PGY[..]** means the year of post graduate year;  **M[..]** means the grade of medical students.  
 
 **USER_ANSWER[...]**: The answer given by human corresponding to the ECG recording using 0 (without) and 1 (with).
 

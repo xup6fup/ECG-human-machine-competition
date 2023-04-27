@@ -63,13 +63,45 @@ Each dataset is stored as a CSV file, with each row representing a single ECG re
 
 The signal column contains the raw ECG recording, with each value representing the amplitude of the ECG signal at a given time point. All ECGs are 12-lead and 10 seconds with 500 Hz. Therefore, the length of number sequence is 5,000 for each lead. The unit of value is 0.01 mV, which is the standard Philip record system. 
 
+The overall file structure is as follows:
+
+```shell
+ECG-human-machine-competition
+├── result
+│   ├── ...
+├── ecg
+│   ├── 0a5e481205fb668d8d60f6f99a6500b1.csv
+│   ├── ...
+│   ├── ffcc3cddec66e58ff7952b254844e2a5.csv
+├── data
+│   ├── myocardial infarction
+│   │   ├── AI_pred.csv
+│   │   ├── label.csv
+│   │   ├── user_results.csv
+│   ├── arrhythmia
+│   │   ├── ...
+│   ├── pericarditis
+│   │   ├── ...
+│   ├── digoxin concentration
+│   │   ├── ...
+│   ├── pneumothorax
+│   │   ├── ...
+│   ├── aortic dissection
+│   │   ├── ...
+│   ├── pulmonary embolism
+│   │   ├── ...
+│   ├── dyskalemia
+│   │   ├── ...
+├── code
+│   ├── 000. show ECG.R
+│   ├── 001. myocardial infarction.R
+│   ├── ...
+│   ├── 008. dyskalemia.R
+```
+
 ## Codes
 
-The folder **"code"** contains the code to draw ROC plot for each dataset. Moreover, an ECG is also provided as following.
-
-<img src="result/0012f4de4fb5910c230dbfa455a59143.png" width="1000px"/>
-
-The ECG also can be presented as a SVG file.
+The folder **"code"** contains the code to draw ROC plot for each dataset. Moreover, an ECG is also provided as following using a SVG format.
 
 <img src="result/0012f4de4fb5910c230dbfa455a59143.svg">
 

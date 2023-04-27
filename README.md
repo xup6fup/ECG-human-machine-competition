@@ -7,31 +7,33 @@ This dataset includes data from eight ECG-based human-machine competitions, desi
 
 The dataset includes data from the following competitions:
 
-1. Myocardial infarction
-2. Arrhythmia
-3. Pericarditis
-4. Digoxin toxicity
-5. Pneumothorax
-6. Aortic dissection
-7. Pulmonary embolism
-8. Dyskalemia
+**1. Myocardial infarction**
+**2. Arrhythmia**
+**3. Pericarditis**
+**4. Digoxin toxicity**
+**5. Pneumothorax**
+**6. Aortic dissection**
+**7. Pulmonary embolism**
+**8. Dyskalemia**
+
+**Note: The raw data is expected to be published in August 2023**
 
 ## Data format
 
 Each dataset is stored as a CSV file, with each row representing a single ECG recording. There are three CSV files "label.csv", "user_results.csv", and "AI_pred.csv" describing the groundtruth, human answer, and AI predictions. The columns of the CSV file include:
 
-hash_id: The unique identifier for the ECG recording.
+**hash_id**: The unique identifier for the ECG recording.
 
-LABEL[...]: The groundtruth of corresponding ECG using 0 (without) and 1 (with). The labels column contains a list of labels indicating the presence or absence of cardiovascular diseases, as determined by human experts or medical records.
+**LABEL[...]**: The groundtruth of corresponding ECG using 0 (without) and 1 (with). The labels column contains a list of labels indicating the presence or absence of cardiovascular diseases, as determined by human experts or medical records.
 
-DOCTOR_ID: The human's specialty and level of experience.
-USER_ANSWER[...]: The answer given by human corresponding to the ECG recording using 0 (without) and 1 (with).
+**DOCTOR_ID**: The human's specialty and level of experience.
+**USER_ANSWER[...]**: The answer given by human corresponding to the ECG recording using 0 (without) and 1 (with).
 
-AI[...]: The predictions given by the baseline models, which was a likelihood ranged 0 to 1.
+**AI[...]**: The predictions given by the baseline models, which was a likelihood ranged 0 to 1.
 
 The signal column contains the raw ECG recording, with each value representing the amplitude of the ECG signal at a given time point. All ECGs are 12-lead and 10 seconds with 500 Hz. Therefore, the length of number sequence is 5,000 for each lead. The unit of value is 0.01 mV, which is the standard Philip record system. 
 
-### Related publication
+## Related publication
 
 | Dataset | Title                                                        | Paper                  | Citation |
 | ------- | ------------------------------------------------------------ | ---------------------- | -------- |

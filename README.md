@@ -9,38 +9,69 @@ The dataset includes data from the following competitions:
 
 **1. Myocardial infarction**
 
+<img src="result/myocardial infarction.png" width="875px"/>
+
 **2. Arrhythmia**
+
+<img src="result/arrhythmia.png" width="1000px"/>
 
 **3. Pericarditis**
 
+<img src="result/pericarditis.png" width="525px"/>
+
 **4. Digoxin toxicity**
+
+<img src="result/digoxin concentration.png" width="525px"/>
 
 **5. Pneumothorax**
 
+<img src="result/pneumothorax.png" width="525px"/>
+
 **6. Aortic dissection**
+
+<img src="result/aortic dissection.png" width="525px"/>
 
 **7. Pulmonary embolism**
 
+<img src="result/pulmonary embolism.png" width="525px"/>
+
 **8. Dyskalemia**
 
-
+<img src="result/dyskalemia.png" width="875px"/>
 
 **Note: The raw data is expected to be published in August 2023**
 
 ## Data format
 
-Each dataset is stored as a CSV file, with each row representing a single ECG recording. There are three CSV files "label.csv", "user_results.csv", and "AI_pred.csv" describing the groundtruth, human answer, and AI predictions. The columns of the CSV file include:
+Each dataset is stored as a CSV file, with each row representing a single ECG recording. There are three CSV files **"label.csv"**, **"user_results.csv"**, and **"AI_pred.csv"** describing the groundtruth, human answer, and AI predictions. The columns of the CSV file include:
 
 **hash_id**: The unique identifier for the ECG recording.
 
+### label.csv
+
 **LABEL[...]**: The groundtruth of corresponding ECG using 0 (without) and 1 (with). The labels column contains a list of labels indicating the presence or absence of cardiovascular diseases, as determined by human experts or medical records.
 
+### user_results.csv
+
 **DOCTOR_ID**: The human's specialty and level of experience.
+
 **USER_ANSWER[...]**: The answer given by human corresponding to the ECG recording using 0 (without) and 1 (with).
+
+### AI_pred.csv
 
 **AI[...]**: The predictions given by the baseline models, which was a likelihood ranged 0 to 1.
 
 The signal column contains the raw ECG recording, with each value representing the amplitude of the ECG signal at a given time point. All ECGs are 12-lead and 10 seconds with 500 Hz. Therefore, the length of number sequence is 5,000 for each lead. The unit of value is 0.01 mV, which is the standard Philip record system. 
+
+## Codes
+
+The folder **"code"** contains the code to draw ROC plot for each dataset. Moreover, an ECG is also provided as following.
+
+<img src="result/0012f4de4fb5910c230dbfa455a59143.png" width="1000px"/>
+
+The ECG also can be presented as a SVG file.
+
+<img src="result/0012f4de4fb5910c230dbfa455a59143.svg">
 
 ## Related publications for the datasets
 

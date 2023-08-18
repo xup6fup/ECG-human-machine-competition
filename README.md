@@ -61,8 +61,6 @@ ECG-human-machine-competition
 │   ├── 008. dyskalemia.R
 ```
 
-**Note: The raw data is expected to be published in August 2023**
-
 ## Competitions
 
 The dataset includes data from the following competitions:

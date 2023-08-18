@@ -1,0 +1,601 @@
+"exam_type","hash_id","DOCTOR_ID","USER_ANSWER[Left Pneumothorax]","USER_ANSWER[Normal]","USER_ANSWER[Right Pneumothorax]"
+"pneumothorax","00f9b74a75f4771d82075b6cbf102445","CV-R2 (1)",0,0,1
+"pneumothorax","01a191230050b4edc8ed168f5007145e","CV-R2 (1)",1,0,0
+"pneumothorax","0307c8ab8ecdafa00d228f5874a4b5ed","CV-R2 (1)",0,0,1
+"pneumothorax","08324842ac2ceaf7280511b5749804c3","CV-R2 (1)",1,0,0
+"pneumothorax","08d0e9a81866fda4effaa8b9a8a38d55","CV-R2 (1)",1,0,0
+"pneumothorax","0b24d13f569ea0a85c2753ff0e37da15","CV-R2 (1)",0,1,0
+"pneumothorax","0cffe4946b1b32a85431adfec7219454","CV-R2 (1)",0,1,0
+"pneumothorax","0ef6f08908bfd84ab5f1d3188f097608","CV-R2 (1)",0,1,0
+"pneumothorax","0fcd46445e956b9088ce1058bf8d2ca7","CV-R2 (1)",1,0,0
+"pneumothorax","0fe006d9c8dd5143840b017a258d66e8","CV-R2 (1)",0,0,1
+"pneumothorax","10671650c0de2503a09cd1813fbacd16","CV-R2 (1)",0,0,1
+"pneumothorax","1145ca043b2a64960bf0a5fc14a950eb","CV-R2 (1)",0,0,1
+"pneumothorax","125dfc4d33f434219b1605392107b411","CV-R2 (1)",0,0,1
+"pneumothorax","13b670a3c571ce05dbe5be28467f51c9","CV-R2 (1)",0,1,0
+"pneumothorax","13dda295cf594e6da50aeff5a7730b94","CV-R2 (1)",0,0,1
+"pneumothorax","1593cd66a5c1630bc1fe4e92f8fa0459","CV-R2 (1)",0,0,1
+"pneumothorax","1ac5e28e82ee852c0d9a0b9da76f840d","CV-R2 (1)",0,1,0
+"pneumothorax","1ea0f2febd5b639ecf8c1fadb4858cdb","CV-R2 (1)",0,1,0
+"pneumothorax","224219e03b0a6be517ee1fdc8c132b53","CV-R2 (1)",1,0,0
+"pneumothorax","2478896e7bc5c42cba7bebc03e725f38","CV-R2 (1)",1,0,0
+"pneumothorax","2503181175a70696ecda4698d64362de","CV-R2 (1)",0,0,1
+"pneumothorax","25fc0fa8944e14149e6948f9bb3d7ef7","CV-R2 (1)",0,0,1
+"pneumothorax","26c036f8c6ca960a25250e23b9c3fb4f","CV-R2 (1)",1,0,0
+"pneumothorax","26d94a8a0622d01660c42127fd77a264","CV-R2 (1)",0,0,1
+"pneumothorax","2ad064082243acbad15279e68decb979","CV-R2 (1)",0,1,0
+"pneumothorax","328cd51eb7475c7b2c4fc27c9ba74378","CV-R2 (1)",0,0,1
+"pneumothorax","354d2c2087d292429c7cb7e01a9db7e2","CV-R2 (1)",1,0,0
+"pneumothorax","37725a946026bfcd9e89a8ce13789034","CV-R2 (1)",0,1,0
+"pneumothorax","38280f5d361720930eba73ab9a4acfdb","CV-R2 (1)",1,0,0
+"pneumothorax","3869f3fed4fada57660417e544a3472b","CV-R2 (1)",1,0,0
+"pneumothorax","38cf217dd66e6bd71159069aa30fbf05","CV-R2 (1)",0,0,1
+"pneumothorax","3c5565a646127955d358cda7c791b7d9","CV-R2 (1)",0,1,0
+"pneumothorax","440327fe9c45f8515dc0cefb071bab26","CV-R2 (1)",1,0,0
+"pneumothorax","45b652a37025a038b3530ec5480414a5","CV-R2 (1)",0,1,0
+"pneumothorax","46a2383c236bea204610a9befa8040cd","CV-R2 (1)",1,0,0
+"pneumothorax","494273fe9981337a73308937ccb12b15","CV-R2 (1)",1,0,0
+"pneumothorax","4b1e6cde28dd182f593f1d01819e27ac","CV-R2 (1)",0,1,0
+"pneumothorax","4e0f9a2236ae9ba6372401fc88903779","CV-R2 (1)",0,0,1
+"pneumothorax","5061196bc3971156e08c3ed8f89cb4e9","CV-R2 (1)",0,1,0
+"pneumothorax","5149696f2e5fc33060d8eab53acc7004","CV-R2 (1)",1,0,0
+"pneumothorax","54a2a8f29ce527e90c1215441e6107e4","CV-R2 (1)",1,0,0
+"pneumothorax","54e16112f31ce91165913cd2fe37f606","CV-R2 (1)",0,0,1
+"pneumothorax","615abc9e6f74a1ea4711e21fdc73f53e","CV-R2 (1)",1,0,0
+"pneumothorax","64548cd3fe37cce0c21cc02f0a84264a","CV-R2 (1)",0,0,1
+"pneumothorax","6b4d04d9637d69902c53032bb7fea6d2","CV-R2 (1)",0,0,1
+"pneumothorax","6cfe15a187b3676817a3e1141486e08b","CV-R2 (1)",1,0,0
+"pneumothorax","6d8decab5774b2c4748c1bcd971ff910","CV-R2 (1)",0,1,0
+"pneumothorax","6ed41c2b0ae30ea65ddf2b667209b23a","CV-R2 (1)",1,0,0
+"pneumothorax","718ad77712c3c3a750b9ec6752b7f8b1","CV-R2 (1)",0,1,0
+"pneumothorax","71c4b0177ea67165f92560be355d5b47","CV-R2 (1)",0,0,1
+"pneumothorax","7367fa5cab00ba95101081c98319d674","CV-R2 (1)",1,0,0
+"pneumothorax","74c8b28a934d5a0345c89969395f392a","CV-R2 (1)",0,0,1
+"pneumothorax","79c8e11afcd3b7db213570c96b1af57e","CV-R2 (1)",0,0,1
+"pneumothorax","79d3f973ca5f01fb2b4e45e6a570bd25","CV-R2 (1)",0,1,0
+"pneumothorax","7a4b17aa43b28077390e7d421765c063","CV-R2 (1)",1,0,0
+"pneumothorax","828796f1bfba31ec4b9557f8519692a3","CV-R2 (1)",1,0,0
+"pneumothorax","84479e60ac7aa976a6b7b3203bb812d1","CV-R2 (1)",0,0,1
+"pneumothorax","84862998916facc58633bb800ed2b01c","CV-R2 (1)",0,0,1
+"pneumothorax","86f4470a52077cd1fff3f5e44882dadc","CV-R2 (1)",1,0,0
+"pneumothorax","8de97fea80dfe8f7e7cc66e498343bf1","CV-R2 (1)",1,0,0
+"pneumothorax","918101a4174fe2285cb2e8e93a77200f","CV-R2 (1)",0,0,1
+"pneumothorax","92b96ecb9a1b7ec11f9bd3e734894280","CV-R2 (1)",0,1,0
+"pneumothorax","92f72ed0921a480e27a42189d6b4a9e2","CV-R2 (1)",0,1,0
+"pneumothorax","9427984d255c2a27edf1047e0f44d6bc","CV-R2 (1)",0,1,0
+"pneumothorax","9a481b7e5a72b4f3fd6a97ac4ef01789","CV-R2 (1)",0,0,1
+"pneumothorax","9e2e8237fbe6993cd5be02e41a84c06b","CV-R2 (1)",0,1,0
+"pneumothorax","9f4e451cde3e49bc9b9cad40672cc59f","CV-R2 (1)",0,0,1
+"pneumothorax","9fbddc37f414b76ed363f379fbff4836","CV-R2 (1)",1,0,0
+"pneumothorax","a08f4c215a7e8b6d63fdd6cc824ecea6","CV-R2 (1)",0,0,1
+"pneumothorax","aa78833b985af2a8a7a631b3e31dbc2f","CV-R2 (1)",1,0,0
+"pneumothorax","aaec7f339c05d0dab7e880a1eb18d1b4","CV-R2 (1)",1,0,0
+"pneumothorax","aed9d0900321b0cc51b3603d13a0dd69","CV-R2 (1)",1,0,0
+"pneumothorax","af1c59e439219f7db611a0fe49078302","CV-R2 (1)",0,0,1
+"pneumothorax","af5e9eb3afdd1979dd1895310d99e257","CV-R2 (1)",1,0,0
+"pneumothorax","afc6e23f61e42bdb8013a9c6ceb5ffcb","CV-R2 (1)",0,1,0
+"pneumothorax","b040a0ef1c621aba6a2f6ec908bda0d1","CV-R2 (1)",0,1,0
+"pneumothorax","b07a4b63a92dfc7518ad273aa8b3c4e2","CV-R2 (1)",0,1,0
+"pneumothorax","b3e211e7c1ec4fe25da84e4862e7fe85","CV-R2 (1)",0,0,1
+"pneumothorax","b515e14cb0713a4c10a3f36eab199079","CV-R2 (1)",0,1,0
+"pneumothorax","b6b086302832777a0a1f4fea72b1830d","CV-R2 (1)",0,1,0
+"pneumothorax","b7dda8c77023b1cd39f884d3978fcf23","CV-R2 (1)",0,0,1
+"pneumothorax","bc5707be7f1cd0778ccc9045bdb64f61","CV-R2 (1)",0,1,0
+"pneumothorax","bec54687199ec53fa6498e52ff3c53fd","CV-R2 (1)",0,0,1
+"pneumothorax","bedc9addd8aa195012bd9248a38f7b74","CV-R2 (1)",1,0,0
+"pneumothorax","c7dda00505bdd787a44f3e9d15bf9bed","CV-R2 (1)",0,0,1
+"pneumothorax","cd7397678ed9e7b23d88868b5a5bf6a1","CV-R2 (1)",1,0,0
+"pneumothorax","ce3509e3e9c640468a1bb994643d00ee","CV-R2 (1)",1,0,0
+"pneumothorax","d003a4069a1b8131c20af3857e93a316","CV-R2 (1)",0,0,1
+"pneumothorax","d03092dde2d8e52d13224745f2af09b0","CV-R2 (1)",0,0,1
+"pneumothorax","d3962eb5b04fe294cd0f77a0a7a1c90d","CV-R2 (1)",1,0,0
+"pneumothorax","defc5b599a307b16e64ab5ae98600b08","CV-R2 (1)",0,1,0
+"pneumothorax","e774d8cf2544fa47ad78be3b7d5a12d1","CV-R2 (1)",1,0,0
+"pneumothorax","ea72fbdbe81471f50e82caa59cb3eafc","CV-R2 (1)",1,0,0
+"pneumothorax","ebd194050bc3abbd5cb05ba059838ba8","CV-R2 (1)",0,0,1
+"pneumothorax","ebf200bdc34ddf6dd641b73c3f49e8ee","CV-R2 (1)",0,1,0
+"pneumothorax","ec7fc4f5df05f12833ded55274e0d700","CV-R2 (1)",0,1,0
+"pneumothorax","ecd9a699406109f6b31688c099032100","CV-R2 (1)",1,0,0
+"pneumothorax","f3e51153b416300ef45ea0b58df283bf","CV-R2 (1)",0,1,0
+"pneumothorax","fa285b8c370b8d0a81f0ac85816652cb","CV-R2 (1)",0,0,1
+"pneumothorax","fd32c707a65bcf9427b8b2a7380bc69e","CV-R2 (1)",0,0,1
+"pneumothorax","00f9b74a75f4771d82075b6cbf102445","CV-R2 (2)",0,1,0
+"pneumothorax","01a191230050b4edc8ed168f5007145e","CV-R2 (2)",0,1,0
+"pneumothorax","0307c8ab8ecdafa00d228f5874a4b5ed","CV-R2 (2)",0,1,0
+"pneumothorax","08324842ac2ceaf7280511b5749804c3","CV-R2 (2)",1,0,0
+"pneumothorax","08d0e9a81866fda4effaa8b9a8a38d55","CV-R2 (2)",0,0,1
+"pneumothorax","0b24d13f569ea0a85c2753ff0e37da15","CV-R2 (2)",0,1,0
+"pneumothorax","0cffe4946b1b32a85431adfec7219454","CV-R2 (2)",0,0,1
+"pneumothorax","0ef6f08908bfd84ab5f1d3188f097608","CV-R2 (2)",0,1,0
+"pneumothorax","0fcd46445e956b9088ce1058bf8d2ca7","CV-R2 (2)",0,1,0
+"pneumothorax","0fe006d9c8dd5143840b017a258d66e8","CV-R2 (2)",0,1,0
+"pneumothorax","10671650c0de2503a09cd1813fbacd16","CV-R2 (2)",0,0,1
+"pneumothorax","1145ca043b2a64960bf0a5fc14a950eb","CV-R2 (2)",0,1,0
+"pneumothorax","125dfc4d33f434219b1605392107b411","CV-R2 (2)",0,1,0
+"pneumothorax","13b670a3c571ce05dbe5be28467f51c9","CV-R2 (2)",0,1,0
+"pneumothorax","13dda295cf594e6da50aeff5a7730b94","CV-R2 (2)",0,1,0
+"pneumothorax","1593cd66a5c1630bc1fe4e92f8fa0459","CV-R2 (2)",0,1,0
+"pneumothorax","1ac5e28e82ee852c0d9a0b9da76f840d","CV-R2 (2)",0,1,0
+"pneumothorax","1ea0f2febd5b639ecf8c1fadb4858cdb","CV-R2 (2)",0,1,0
+"pneumothorax","224219e03b0a6be517ee1fdc8c132b53","CV-R2 (2)",0,0,1
+"pneumothorax","2478896e7bc5c42cba7bebc03e725f38","CV-R2 (2)",0,1,0
+"pneumothorax","2503181175a70696ecda4698d64362de","CV-R2 (2)",0,1,0
+"pneumothorax","25fc0fa8944e14149e6948f9bb3d7ef7","CV-R2 (2)",0,1,0
+"pneumothorax","26c036f8c6ca960a25250e23b9c3fb4f","CV-R2 (2)",0,1,0
+"pneumothorax","26d94a8a0622d01660c42127fd77a264","CV-R2 (2)",0,1,0
+"pneumothorax","2ad064082243acbad15279e68decb979","CV-R2 (2)",0,1,0
+"pneumothorax","328cd51eb7475c7b2c4fc27c9ba74378","CV-R2 (2)",1,0,0
+"pneumothorax","354d2c2087d292429c7cb7e01a9db7e2","CV-R2 (2)",1,0,0
+"pneumothorax","37725a946026bfcd9e89a8ce13789034","CV-R2 (2)",1,0,0
+"pneumothorax","38280f5d361720930eba73ab9a4acfdb","CV-R2 (2)",1,0,0
+"pneumothorax","3869f3fed4fada57660417e544a3472b","CV-R2 (2)",1,0,0
+"pneumothorax","38cf217dd66e6bd71159069aa30fbf05","CV-R2 (2)",0,1,0
+"pneumothorax","3c5565a646127955d358cda7c791b7d9","CV-R2 (2)",0,1,0
+"pneumothorax","440327fe9c45f8515dc0cefb071bab26","CV-R2 (2)",0,1,0
+"pneumothorax","45b652a37025a038b3530ec5480414a5","CV-R2 (2)",0,1,0
+"pneumothorax","46a2383c236bea204610a9befa8040cd","CV-R2 (2)",0,1,0
+"pneumothorax","494273fe9981337a73308937ccb12b15","CV-R2 (2)",1,0,0
+"pneumothorax","4b1e6cde28dd182f593f1d01819e27ac","CV-R2 (2)",1,0,0
+"pneumothorax","4e0f9a2236ae9ba6372401fc88903779","CV-R2 (2)",0,0,1
+"pneumothorax","5061196bc3971156e08c3ed8f89cb4e9","CV-R2 (2)",0,1,0
+"pneumothorax","5149696f2e5fc33060d8eab53acc7004","CV-R2 (2)",0,0,1
+"pneumothorax","54a2a8f29ce527e90c1215441e6107e4","CV-R2 (2)",1,0,0
+"pneumothorax","54e16112f31ce91165913cd2fe37f606","CV-R2 (2)",0,1,0
+"pneumothorax","615abc9e6f74a1ea4711e21fdc73f53e","CV-R2 (2)",0,1,0
+"pneumothorax","64548cd3fe37cce0c21cc02f0a84264a","CV-R2 (2)",0,1,0
+"pneumothorax","6b4d04d9637d69902c53032bb7fea6d2","CV-R2 (2)",0,1,0
+"pneumothorax","6cfe15a187b3676817a3e1141486e08b","CV-R2 (2)",1,0,0
+"pneumothorax","6d8decab5774b2c4748c1bcd971ff910","CV-R2 (2)",1,0,0
+"pneumothorax","6ed41c2b0ae30ea65ddf2b667209b23a","CV-R2 (2)",0,1,0
+"pneumothorax","718ad77712c3c3a750b9ec6752b7f8b1","CV-R2 (2)",0,1,0
+"pneumothorax","71c4b0177ea67165f92560be355d5b47","CV-R2 (2)",0,1,0
+"pneumothorax","7367fa5cab00ba95101081c98319d674","CV-R2 (2)",1,0,0
+"pneumothorax","74c8b28a934d5a0345c89969395f392a","CV-R2 (2)",1,0,0
+"pneumothorax","79c8e11afcd3b7db213570c96b1af57e","CV-R2 (2)",0,1,0
+"pneumothorax","79d3f973ca5f01fb2b4e45e6a570bd25","CV-R2 (2)",1,0,0
+"pneumothorax","7a4b17aa43b28077390e7d421765c063","CV-R2 (2)",0,1,0
+"pneumothorax","828796f1bfba31ec4b9557f8519692a3","CV-R2 (2)",0,1,0
+"pneumothorax","84479e60ac7aa976a6b7b3203bb812d1","CV-R2 (2)",0,1,0
+"pneumothorax","84862998916facc58633bb800ed2b01c","CV-R2 (2)",0,1,0
+"pneumothorax","86f4470a52077cd1fff3f5e44882dadc","CV-R2 (2)",0,1,0
+"pneumothorax","8de97fea80dfe8f7e7cc66e498343bf1","CV-R2 (2)",1,0,0
+"pneumothorax","918101a4174fe2285cb2e8e93a77200f","CV-R2 (2)",0,0,1
+"pneumothorax","92b96ecb9a1b7ec11f9bd3e734894280","CV-R2 (2)",0,1,0
+"pneumothorax","92f72ed0921a480e27a42189d6b4a9e2","CV-R2 (2)",0,0,1
+"pneumothorax","9427984d255c2a27edf1047e0f44d6bc","CV-R2 (2)",0,1,0
+"pneumothorax","9a481b7e5a72b4f3fd6a97ac4ef01789","CV-R2 (2)",0,1,0
+"pneumothorax","9e2e8237fbe6993cd5be02e41a84c06b","CV-R2 (2)",0,1,0
+"pneumothorax","9f4e451cde3e49bc9b9cad40672cc59f","CV-R2 (2)",0,1,0
+"pneumothorax","9fbddc37f414b76ed363f379fbff4836","CV-R2 (2)",0,1,0
+"pneumothorax","a08f4c215a7e8b6d63fdd6cc824ecea6","CV-R2 (2)",0,1,0
+"pneumothorax","aa78833b985af2a8a7a631b3e31dbc2f","CV-R2 (2)",0,1,0
+"pneumothorax","aaec7f339c05d0dab7e880a1eb18d1b4","CV-R2 (2)",1,0,0
+"pneumothorax","aed9d0900321b0cc51b3603d13a0dd69","CV-R2 (2)",0,1,0
+"pneumothorax","af1c59e439219f7db611a0fe49078302","CV-R2 (2)",0,1,0
+"pneumothorax","af5e9eb3afdd1979dd1895310d99e257","CV-R2 (2)",0,0,1
+"pneumothorax","afc6e23f61e42bdb8013a9c6ceb5ffcb","CV-R2 (2)",0,1,0
+"pneumothorax","b040a0ef1c621aba6a2f6ec908bda0d1","CV-R2 (2)",0,1,0
+"pneumothorax","b07a4b63a92dfc7518ad273aa8b3c4e2","CV-R2 (2)",1,0,0
+"pneumothorax","b3e211e7c1ec4fe25da84e4862e7fe85","CV-R2 (2)",0,1,0
+"pneumothorax","b515e14cb0713a4c10a3f36eab199079","CV-R2 (2)",0,1,0
+"pneumothorax","b6b086302832777a0a1f4fea72b1830d","CV-R2 (2)",0,1,0
+"pneumothorax","b7dda8c77023b1cd39f884d3978fcf23","CV-R2 (2)",0,1,0
+"pneumothorax","bc5707be7f1cd0778ccc9045bdb64f61","CV-R2 (2)",0,1,0
+"pneumothorax","bec54687199ec53fa6498e52ff3c53fd","CV-R2 (2)",0,1,0
+"pneumothorax","bedc9addd8aa195012bd9248a38f7b74","CV-R2 (2)",0,1,0
+"pneumothorax","c7dda00505bdd787a44f3e9d15bf9bed","CV-R2 (2)",0,1,0
+"pneumothorax","cd7397678ed9e7b23d88868b5a5bf6a1","CV-R2 (2)",0,1,0
+"pneumothorax","ce3509e3e9c640468a1bb994643d00ee","CV-R2 (2)",0,1,0
+"pneumothorax","d003a4069a1b8131c20af3857e93a316","CV-R2 (2)",0,1,0
+"pneumothorax","d03092dde2d8e52d13224745f2af09b0","CV-R2 (2)",0,1,0
+"pneumothorax","d3962eb5b04fe294cd0f77a0a7a1c90d","CV-R2 (2)",0,1,0
+"pneumothorax","defc5b599a307b16e64ab5ae98600b08","CV-R2 (2)",0,1,0
+"pneumothorax","e774d8cf2544fa47ad78be3b7d5a12d1","CV-R2 (2)",0,0,1
+"pneumothorax","ea72fbdbe81471f50e82caa59cb3eafc","CV-R2 (2)",0,1,0
+"pneumothorax","ebd194050bc3abbd5cb05ba059838ba8","CV-R2 (2)",0,1,0
+"pneumothorax","ebf200bdc34ddf6dd641b73c3f49e8ee","CV-R2 (2)",0,1,0
+"pneumothorax","ec7fc4f5df05f12833ded55274e0d700","CV-R2 (2)",0,1,0
+"pneumothorax","ecd9a699406109f6b31688c099032100","CV-R2 (2)",1,0,0
+"pneumothorax","f3e51153b416300ef45ea0b58df283bf","CV-R2 (2)",1,0,0
+"pneumothorax","fa285b8c370b8d0a81f0ac85816652cb","CV-R2 (2)",0,1,0
+"pneumothorax","fd32c707a65bcf9427b8b2a7380bc69e","CV-R2 (2)",1,0,0
+"pneumothorax","00f9b74a75f4771d82075b6cbf102445","CV-V9",1,0,0
+"pneumothorax","01a191230050b4edc8ed168f5007145e","CV-V9",0,1,0
+"pneumothorax","0307c8ab8ecdafa00d228f5874a4b5ed","CV-V9",0,0,1
+"pneumothorax","08324842ac2ceaf7280511b5749804c3","CV-V9",1,0,0
+"pneumothorax","08d0e9a81866fda4effaa8b9a8a38d55","CV-V9",0,0,1
+"pneumothorax","0b24d13f569ea0a85c2753ff0e37da15","CV-V9",0,1,0
+"pneumothorax","0cffe4946b1b32a85431adfec7219454","CV-V9",0,0,1
+"pneumothorax","0ef6f08908bfd84ab5f1d3188f097608","CV-V9",0,0,1
+"pneumothorax","0fcd46445e956b9088ce1058bf8d2ca7","CV-V9",0,1,0
+"pneumothorax","0fe006d9c8dd5143840b017a258d66e8","CV-V9",0,1,0
+"pneumothorax","10671650c0de2503a09cd1813fbacd16","CV-V9",0,1,0
+"pneumothorax","1145ca043b2a64960bf0a5fc14a950eb","CV-V9",0,1,0
+"pneumothorax","125dfc4d33f434219b1605392107b411","CV-V9",0,1,0
+"pneumothorax","13b670a3c571ce05dbe5be28467f51c9","CV-V9",0,1,0
+"pneumothorax","13dda295cf594e6da50aeff5a7730b94","CV-V9",1,0,0
+"pneumothorax","1593cd66a5c1630bc1fe4e92f8fa0459","CV-V9",0,1,0
+"pneumothorax","1ac5e28e82ee852c0d9a0b9da76f840d","CV-V9",1,0,0
+"pneumothorax","1ea0f2febd5b639ecf8c1fadb4858cdb","CV-V9",0,0,1
+"pneumothorax","224219e03b0a6be517ee1fdc8c132b53","CV-V9",0,1,0
+"pneumothorax","2478896e7bc5c42cba7bebc03e725f38","CV-V9",0,0,1
+"pneumothorax","2503181175a70696ecda4698d64362de","CV-V9",0,1,0
+"pneumothorax","25fc0fa8944e14149e6948f9bb3d7ef7","CV-V9",1,0,0
+"pneumothorax","26c036f8c6ca960a25250e23b9c3fb4f","CV-V9",0,0,1
+"pneumothorax","26d94a8a0622d01660c42127fd77a264","CV-V9",0,0,1
+"pneumothorax","2ad064082243acbad15279e68decb979","CV-V9",0,1,0
+"pneumothorax","328cd51eb7475c7b2c4fc27c9ba74378","CV-V9",1,0,0
+"pneumothorax","354d2c2087d292429c7cb7e01a9db7e2","CV-V9",1,0,0
+"pneumothorax","37725a946026bfcd9e89a8ce13789034","CV-V9",1,0,0
+"pneumothorax","38280f5d361720930eba73ab9a4acfdb","CV-V9",1,0,0
+"pneumothorax","3869f3fed4fada57660417e544a3472b","CV-V9",1,0,0
+"pneumothorax","38cf217dd66e6bd71159069aa30fbf05","CV-V9",0,1,0
+"pneumothorax","3c5565a646127955d358cda7c791b7d9","CV-V9",1,0,0
+"pneumothorax","440327fe9c45f8515dc0cefb071bab26","CV-V9",1,0,0
+"pneumothorax","45b652a37025a038b3530ec5480414a5","CV-V9",1,0,0
+"pneumothorax","46a2383c236bea204610a9befa8040cd","CV-V9",0,0,1
+"pneumothorax","494273fe9981337a73308937ccb12b15","CV-V9",1,0,0
+"pneumothorax","4b1e6cde28dd182f593f1d01819e27ac","CV-V9",1,0,0
+"pneumothorax","4e0f9a2236ae9ba6372401fc88903779","CV-V9",1,0,0
+"pneumothorax","5061196bc3971156e08c3ed8f89cb4e9","CV-V9",0,1,0
+"pneumothorax","5149696f2e5fc33060d8eab53acc7004","CV-V9",0,1,0
+"pneumothorax","54a2a8f29ce527e90c1215441e6107e4","CV-V9",0,1,0
+"pneumothorax","54e16112f31ce91165913cd2fe37f606","CV-V9",0,1,0
+"pneumothorax","615abc9e6f74a1ea4711e21fdc73f53e","CV-V9",0,1,0
+"pneumothorax","64548cd3fe37cce0c21cc02f0a84264a","CV-V9",0,1,0
+"pneumothorax","6b4d04d9637d69902c53032bb7fea6d2","CV-V9",1,0,0
+"pneumothorax","6cfe15a187b3676817a3e1141486e08b","CV-V9",1,0,0
+"pneumothorax","6d8decab5774b2c4748c1bcd971ff910","CV-V9",1,0,0
+"pneumothorax","6ed41c2b0ae30ea65ddf2b667209b23a","CV-V9",0,0,1
+"pneumothorax","718ad77712c3c3a750b9ec6752b7f8b1","CV-V9",1,0,0
+"pneumothorax","71c4b0177ea67165f92560be355d5b47","CV-V9",0,1,0
+"pneumothorax","7367fa5cab00ba95101081c98319d674","CV-V9",1,0,0
+"pneumothorax","74c8b28a934d5a0345c89969395f392a","CV-V9",0,0,1
+"pneumothorax","79c8e11afcd3b7db213570c96b1af57e","CV-V9",0,0,1
+"pneumothorax","79d3f973ca5f01fb2b4e45e6a570bd25","CV-V9",0,1,0
+"pneumothorax","7a4b17aa43b28077390e7d421765c063","CV-V9",1,0,0
+"pneumothorax","828796f1bfba31ec4b9557f8519692a3","CV-V9",0,1,0
+"pneumothorax","84479e60ac7aa976a6b7b3203bb812d1","CV-V9",0,1,0
+"pneumothorax","84862998916facc58633bb800ed2b01c","CV-V9",0,1,0
+"pneumothorax","86f4470a52077cd1fff3f5e44882dadc","CV-V9",0,0,1
+"pneumothorax","8de97fea80dfe8f7e7cc66e498343bf1","CV-V9",1,0,0
+"pneumothorax","918101a4174fe2285cb2e8e93a77200f","CV-V9",1,0,0
+"pneumothorax","92b96ecb9a1b7ec11f9bd3e734894280","CV-V9",1,0,0
+"pneumothorax","92f72ed0921a480e27a42189d6b4a9e2","CV-V9",0,0,1
+"pneumothorax","9427984d255c2a27edf1047e0f44d6bc","CV-V9",0,1,0
+"pneumothorax","9a481b7e5a72b4f3fd6a97ac4ef01789","CV-V9",0,1,0
+"pneumothorax","9e2e8237fbe6993cd5be02e41a84c06b","CV-V9",0,0,1
+"pneumothorax","9f4e451cde3e49bc9b9cad40672cc59f","CV-V9",0,1,0
+"pneumothorax","9fbddc37f414b76ed363f379fbff4836","CV-V9",0,0,1
+"pneumothorax","a08f4c215a7e8b6d63fdd6cc824ecea6","CV-V9",0,0,1
+"pneumothorax","aa78833b985af2a8a7a631b3e31dbc2f","CV-V9",0,1,0
+"pneumothorax","aaec7f339c05d0dab7e880a1eb18d1b4","CV-V9",1,0,0
+"pneumothorax","aed9d0900321b0cc51b3603d13a0dd69","CV-V9",0,0,1
+"pneumothorax","af1c59e439219f7db611a0fe49078302","CV-V9",0,1,0
+"pneumothorax","af5e9eb3afdd1979dd1895310d99e257","CV-V9",1,0,0
+"pneumothorax","afc6e23f61e42bdb8013a9c6ceb5ffcb","CV-V9",1,0,0
+"pneumothorax","b040a0ef1c621aba6a2f6ec908bda0d1","CV-V9",1,0,0
+"pneumothorax","b07a4b63a92dfc7518ad273aa8b3c4e2","CV-V9",1,0,0
+"pneumothorax","b3e211e7c1ec4fe25da84e4862e7fe85","CV-V9",0,1,0
+"pneumothorax","b515e14cb0713a4c10a3f36eab199079","CV-V9",0,0,1
+"pneumothorax","b6b086302832777a0a1f4fea72b1830d","CV-V9",0,1,0
+"pneumothorax","b7dda8c77023b1cd39f884d3978fcf23","CV-V9",0,0,1
+"pneumothorax","bc5707be7f1cd0778ccc9045bdb64f61","CV-V9",0,1,0
+"pneumothorax","bec54687199ec53fa6498e52ff3c53fd","CV-V9",0,1,0
+"pneumothorax","bedc9addd8aa195012bd9248a38f7b74","CV-V9",0,1,0
+"pneumothorax","c7dda00505bdd787a44f3e9d15bf9bed","CV-V9",0,0,1
+"pneumothorax","cd7397678ed9e7b23d88868b5a5bf6a1","CV-V9",1,0,0
+"pneumothorax","ce3509e3e9c640468a1bb994643d00ee","CV-V9",1,0,0
+"pneumothorax","d003a4069a1b8131c20af3857e93a316","CV-V9",0,1,0
+"pneumothorax","d03092dde2d8e52d13224745f2af09b0","CV-V9",0,0,1
+"pneumothorax","d3962eb5b04fe294cd0f77a0a7a1c90d","CV-V9",1,0,0
+"pneumothorax","defc5b599a307b16e64ab5ae98600b08","CV-V9",1,0,0
+"pneumothorax","e774d8cf2544fa47ad78be3b7d5a12d1","CV-V9",0,0,1
+"pneumothorax","ea72fbdbe81471f50e82caa59cb3eafc","CV-V9",0,1,0
+"pneumothorax","ebd194050bc3abbd5cb05ba059838ba8","CV-V9",0,1,0
+"pneumothorax","ebf200bdc34ddf6dd641b73c3f49e8ee","CV-V9",0,1,0
+"pneumothorax","ec7fc4f5df05f12833ded55274e0d700","CV-V9",0,1,0
+"pneumothorax","ecd9a699406109f6b31688c099032100","CV-V9",0,0,1
+"pneumothorax","f3e51153b416300ef45ea0b58df283bf","CV-V9",0,0,1
+"pneumothorax","fa285b8c370b8d0a81f0ac85816652cb","CV-V9",0,1,0
+"pneumothorax","fd32c707a65bcf9427b8b2a7380bc69e","CV-V9",0,0,1
+"pneumothorax","00f9b74a75f4771d82075b6cbf102445","ER-R3 (1)",0,0,1
+"pneumothorax","01a191230050b4edc8ed168f5007145e","ER-R3 (1)",1,0,0
+"pneumothorax","0307c8ab8ecdafa00d228f5874a4b5ed","ER-R3 (1)",0,1,0
+"pneumothorax","08324842ac2ceaf7280511b5749804c3","ER-R3 (1)",0,0,1
+"pneumothorax","08d0e9a81866fda4effaa8b9a8a38d55","ER-R3 (1)",1,0,0
+"pneumothorax","0b24d13f569ea0a85c2753ff0e37da15","ER-R3 (1)",0,1,0
+"pneumothorax","0cffe4946b1b32a85431adfec7219454","ER-R3 (1)",0,1,0
+"pneumothorax","0ef6f08908bfd84ab5f1d3188f097608","ER-R3 (1)",1,0,0
+"pneumothorax","0fcd46445e956b9088ce1058bf8d2ca7","ER-R3 (1)",0,0,1
+"pneumothorax","0fe006d9c8dd5143840b017a258d66e8","ER-R3 (1)",0,1,0
+"pneumothorax","10671650c0de2503a09cd1813fbacd16","ER-R3 (1)",0,1,0
+"pneumothorax","1145ca043b2a64960bf0a5fc14a950eb","ER-R3 (1)",0,1,0
+"pneumothorax","125dfc4d33f434219b1605392107b411","ER-R3 (1)",0,1,0
+"pneumothorax","13b670a3c571ce05dbe5be28467f51c9","ER-R3 (1)",1,0,0
+"pneumothorax","13dda295cf594e6da50aeff5a7730b94","ER-R3 (1)",0,1,0
+"pneumothorax","1593cd66a5c1630bc1fe4e92f8fa0459","ER-R3 (1)",0,0,1
+"pneumothorax","1ac5e28e82ee852c0d9a0b9da76f840d","ER-R3 (1)",0,1,0
+"pneumothorax","1ea0f2febd5b639ecf8c1fadb4858cdb","ER-R3 (1)",0,0,1
+"pneumothorax","224219e03b0a6be517ee1fdc8c132b53","ER-R3 (1)",0,1,0
+"pneumothorax","2478896e7bc5c42cba7bebc03e725f38","ER-R3 (1)",0,1,0
+"pneumothorax","2503181175a70696ecda4698d64362de","ER-R3 (1)",0,0,1
+"pneumothorax","25fc0fa8944e14149e6948f9bb3d7ef7","ER-R3 (1)",0,0,1
+"pneumothorax","26c036f8c6ca960a25250e23b9c3fb4f","ER-R3 (1)",1,0,0
+"pneumothorax","26d94a8a0622d01660c42127fd77a264","ER-R3 (1)",0,1,0
+"pneumothorax","2ad064082243acbad15279e68decb979","ER-R3 (1)",0,0,1
+"pneumothorax","328cd51eb7475c7b2c4fc27c9ba74378","ER-R3 (1)",1,0,0
+"pneumothorax","354d2c2087d292429c7cb7e01a9db7e2","ER-R3 (1)",0,0,1
+"pneumothorax","37725a946026bfcd9e89a8ce13789034","ER-R3 (1)",1,0,0
+"pneumothorax","38280f5d361720930eba73ab9a4acfdb","ER-R3 (1)",1,0,0
+"pneumothorax","3869f3fed4fada57660417e544a3472b","ER-R3 (1)",0,0,1
+"pneumothorax","38cf217dd66e6bd71159069aa30fbf05","ER-R3 (1)",0,0,1
+"pneumothorax","3c5565a646127955d358cda7c791b7d9","ER-R3 (1)",0,1,0
+"pneumothorax","440327fe9c45f8515dc0cefb071bab26","ER-R3 (1)",1,0,0
+"pneumothorax","45b652a37025a038b3530ec5480414a5","ER-R3 (1)",0,0,1
+"pneumothorax","46a2383c236bea204610a9befa8040cd","ER-R3 (1)",0,0,1
+"pneumothorax","494273fe9981337a73308937ccb12b15","ER-R3 (1)",0,1,0
+"pneumothorax","4b1e6cde28dd182f593f1d01819e27ac","ER-R3 (1)",0,1,0
+"pneumothorax","4e0f9a2236ae9ba6372401fc88903779","ER-R3 (1)",1,0,0
+"pneumothorax","5061196bc3971156e08c3ed8f89cb4e9","ER-R3 (1)",0,1,0
+"pneumothorax","5149696f2e5fc33060d8eab53acc7004","ER-R3 (1)",0,0,1
+"pneumothorax","54a2a8f29ce527e90c1215441e6107e4","ER-R3 (1)",1,0,0
+"pneumothorax","54e16112f31ce91165913cd2fe37f606","ER-R3 (1)",0,0,1
+"pneumothorax","615abc9e6f74a1ea4711e21fdc73f53e","ER-R3 (1)",0,1,0
+"pneumothorax","64548cd3fe37cce0c21cc02f0a84264a","ER-R3 (1)",0,1,0
+"pneumothorax","6b4d04d9637d69902c53032bb7fea6d2","ER-R3 (1)",0,1,0
+"pneumothorax","6cfe15a187b3676817a3e1141486e08b","ER-R3 (1)",0,1,0
+"pneumothorax","6d8decab5774b2c4748c1bcd971ff910","ER-R3 (1)",0,1,0
+"pneumothorax","6ed41c2b0ae30ea65ddf2b667209b23a","ER-R3 (1)",0,1,0
+"pneumothorax","718ad77712c3c3a750b9ec6752b7f8b1","ER-R3 (1)",0,0,1
+"pneumothorax","71c4b0177ea67165f92560be355d5b47","ER-R3 (1)",0,0,1
+"pneumothorax","7367fa5cab00ba95101081c98319d674","ER-R3 (1)",0,1,0
+"pneumothorax","74c8b28a934d5a0345c89969395f392a","ER-R3 (1)",1,0,0
+"pneumothorax","79c8e11afcd3b7db213570c96b1af57e","ER-R3 (1)",0,1,0
+"pneumothorax","79d3f973ca5f01fb2b4e45e6a570bd25","ER-R3 (1)",0,1,0
+"pneumothorax","7a4b17aa43b28077390e7d421765c063","ER-R3 (1)",1,0,0
+"pneumothorax","828796f1bfba31ec4b9557f8519692a3","ER-R3 (1)",0,1,0
+"pneumothorax","84479e60ac7aa976a6b7b3203bb812d1","ER-R3 (1)",0,0,1
+"pneumothorax","84862998916facc58633bb800ed2b01c","ER-R3 (1)",0,1,0
+"pneumothorax","86f4470a52077cd1fff3f5e44882dadc","ER-R3 (1)",0,1,0
+"pneumothorax","8de97fea80dfe8f7e7cc66e498343bf1","ER-R3 (1)",1,0,0
+"pneumothorax","918101a4174fe2285cb2e8e93a77200f","ER-R3 (1)",0,0,1
+"pneumothorax","92b96ecb9a1b7ec11f9bd3e734894280","ER-R3 (1)",1,0,0
+"pneumothorax","92f72ed0921a480e27a42189d6b4a9e2","ER-R3 (1)",0,0,1
+"pneumothorax","9427984d255c2a27edf1047e0f44d6bc","ER-R3 (1)",0,0,1
+"pneumothorax","9a481b7e5a72b4f3fd6a97ac4ef01789","ER-R3 (1)",0,1,0
+"pneumothorax","9e2e8237fbe6993cd5be02e41a84c06b","ER-R3 (1)",0,0,1
+"pneumothorax","9f4e451cde3e49bc9b9cad40672cc59f","ER-R3 (1)",0,1,0
+"pneumothorax","9fbddc37f414b76ed363f379fbff4836","ER-R3 (1)",0,1,0
+"pneumothorax","a08f4c215a7e8b6d63fdd6cc824ecea6","ER-R3 (1)",0,0,1
+"pneumothorax","aa78833b985af2a8a7a631b3e31dbc2f","ER-R3 (1)",0,0,1
+"pneumothorax","aaec7f339c05d0dab7e880a1eb18d1b4","ER-R3 (1)",0,1,0
+"pneumothorax","aed9d0900321b0cc51b3603d13a0dd69","ER-R3 (1)",0,1,0
+"pneumothorax","af1c59e439219f7db611a0fe49078302","ER-R3 (1)",0,1,0
+"pneumothorax","af5e9eb3afdd1979dd1895310d99e257","ER-R3 (1)",0,1,0
+"pneumothorax","afc6e23f61e42bdb8013a9c6ceb5ffcb","ER-R3 (1)",0,1,0
+"pneumothorax","b040a0ef1c621aba6a2f6ec908bda0d1","ER-R3 (1)",0,0,1
+"pneumothorax","b07a4b63a92dfc7518ad273aa8b3c4e2","ER-R3 (1)",0,1,0
+"pneumothorax","b3e211e7c1ec4fe25da84e4862e7fe85","ER-R3 (1)",0,0,1
+"pneumothorax","b515e14cb0713a4c10a3f36eab199079","ER-R3 (1)",0,1,0
+"pneumothorax","b6b086302832777a0a1f4fea72b1830d","ER-R3 (1)",0,0,1
+"pneumothorax","b7dda8c77023b1cd39f884d3978fcf23","ER-R3 (1)",0,0,1
+"pneumothorax","bc5707be7f1cd0778ccc9045bdb64f61","ER-R3 (1)",0,0,1
+"pneumothorax","bec54687199ec53fa6498e52ff3c53fd","ER-R3 (1)",0,1,0
+"pneumothorax","bedc9addd8aa195012bd9248a38f7b74","ER-R3 (1)",0,1,0
+"pneumothorax","c7dda00505bdd787a44f3e9d15bf9bed","ER-R3 (1)",0,1,0
+"pneumothorax","cd7397678ed9e7b23d88868b5a5bf6a1","ER-R3 (1)",1,0,0
+"pneumothorax","ce3509e3e9c640468a1bb994643d00ee","ER-R3 (1)",0,1,0
+"pneumothorax","d003a4069a1b8131c20af3857e93a316","ER-R3 (1)",0,1,0
+"pneumothorax","d03092dde2d8e52d13224745f2af09b0","ER-R3 (1)",0,1,0
+"pneumothorax","d3962eb5b04fe294cd0f77a0a7a1c90d","ER-R3 (1)",0,1,0
+"pneumothorax","defc5b599a307b16e64ab5ae98600b08","ER-R3 (1)",0,1,0
+"pneumothorax","e774d8cf2544fa47ad78be3b7d5a12d1","ER-R3 (1)",0,0,1
+"pneumothorax","ea72fbdbe81471f50e82caa59cb3eafc","ER-R3 (1)",1,0,0
+"pneumothorax","ebd194050bc3abbd5cb05ba059838ba8","ER-R3 (1)",0,1,0
+"pneumothorax","ebf200bdc34ddf6dd641b73c3f49e8ee","ER-R3 (1)",0,1,0
+"pneumothorax","ec7fc4f5df05f12833ded55274e0d700","ER-R3 (1)",0,1,0
+"pneumothorax","ecd9a699406109f6b31688c099032100","ER-R3 (1)",0,0,1
+"pneumothorax","f3e51153b416300ef45ea0b58df283bf","ER-R3 (1)",0,0,1
+"pneumothorax","fa285b8c370b8d0a81f0ac85816652cb","ER-R3 (1)",0,0,1
+"pneumothorax","fd32c707a65bcf9427b8b2a7380bc69e","ER-R3 (1)",0,1,0
+"pneumothorax","00f9b74a75f4771d82075b6cbf102445","ER-V15",1,0,0
+"pneumothorax","01a191230050b4edc8ed168f5007145e","ER-V15",0,1,0
+"pneumothorax","0307c8ab8ecdafa00d228f5874a4b5ed","ER-V15",0,1,0
+"pneumothorax","08324842ac2ceaf7280511b5749804c3","ER-V15",0,1,0
+"pneumothorax","08d0e9a81866fda4effaa8b9a8a38d55","ER-V15",0,1,0
+"pneumothorax","0b24d13f569ea0a85c2753ff0e37da15","ER-V15",0,1,0
+"pneumothorax","0cffe4946b1b32a85431adfec7219454","ER-V15",0,1,0
+"pneumothorax","0ef6f08908bfd84ab5f1d3188f097608","ER-V15",0,1,0
+"pneumothorax","0fcd46445e956b9088ce1058bf8d2ca7","ER-V15",0,1,0
+"pneumothorax","0fe006d9c8dd5143840b017a258d66e8","ER-V15",0,1,0
+"pneumothorax","10671650c0de2503a09cd1813fbacd16","ER-V15",0,1,0
+"pneumothorax","1145ca043b2a64960bf0a5fc14a950eb","ER-V15",0,1,0
+"pneumothorax","125dfc4d33f434219b1605392107b411","ER-V15",0,1,0
+"pneumothorax","13b670a3c571ce05dbe5be28467f51c9","ER-V15",1,0,0
+"pneumothorax","13dda295cf594e6da50aeff5a7730b94","ER-V15",0,0,1
+"pneumothorax","1593cd66a5c1630bc1fe4e92f8fa0459","ER-V15",0,1,0
+"pneumothorax","1ac5e28e82ee852c0d9a0b9da76f840d","ER-V15",0,0,1
+"pneumothorax","1ea0f2febd5b639ecf8c1fadb4858cdb","ER-V15",0,1,0
+"pneumothorax","224219e03b0a6be517ee1fdc8c132b53","ER-V15",0,1,0
+"pneumothorax","2478896e7bc5c42cba7bebc03e725f38","ER-V15",0,1,0
+"pneumothorax","2503181175a70696ecda4698d64362de","ER-V15",0,0,1
+"pneumothorax","25fc0fa8944e14149e6948f9bb3d7ef7","ER-V15",1,0,0
+"pneumothorax","26c036f8c6ca960a25250e23b9c3fb4f","ER-V15",0,1,0
+"pneumothorax","26d94a8a0622d01660c42127fd77a264","ER-V15",0,1,0
+"pneumothorax","2ad064082243acbad15279e68decb979","ER-V15",1,0,0
+"pneumothorax","328cd51eb7475c7b2c4fc27c9ba74378","ER-V15",1,0,0
+"pneumothorax","354d2c2087d292429c7cb7e01a9db7e2","ER-V15",1,0,0
+"pneumothorax","37725a946026bfcd9e89a8ce13789034","ER-V15",0,0,1
+"pneumothorax","38280f5d361720930eba73ab9a4acfdb","ER-V15",1,0,0
+"pneumothorax","3869f3fed4fada57660417e544a3472b","ER-V15",1,0,0
+"pneumothorax","38cf217dd66e6bd71159069aa30fbf05","ER-V15",0,0,1
+"pneumothorax","3c5565a646127955d358cda7c791b7d9","ER-V15",0,1,0
+"pneumothorax","440327fe9c45f8515dc0cefb071bab26","ER-V15",1,0,0
+"pneumothorax","45b652a37025a038b3530ec5480414a5","ER-V15",1,0,0
+"pneumothorax","46a2383c236bea204610a9befa8040cd","ER-V15",0,1,0
+"pneumothorax","494273fe9981337a73308937ccb12b15","ER-V15",0,0,1
+"pneumothorax","4b1e6cde28dd182f593f1d01819e27ac","ER-V15",1,0,0
+"pneumothorax","4e0f9a2236ae9ba6372401fc88903779","ER-V15",0,1,0
+"pneumothorax","5061196bc3971156e08c3ed8f89cb4e9","ER-V15",0,1,0
+"pneumothorax","5149696f2e5fc33060d8eab53acc7004","ER-V15",0,1,0
+"pneumothorax","54a2a8f29ce527e90c1215441e6107e4","ER-V15",0,1,0
+"pneumothorax","54e16112f31ce91165913cd2fe37f606","ER-V15",0,1,0
+"pneumothorax","615abc9e6f74a1ea4711e21fdc73f53e","ER-V15",0,1,0
+"pneumothorax","64548cd3fe37cce0c21cc02f0a84264a","ER-V15",0,1,0
+"pneumothorax","6b4d04d9637d69902c53032bb7fea6d2","ER-V15",0,1,0
+"pneumothorax","6cfe15a187b3676817a3e1141486e08b","ER-V15",1,0,0
+"pneumothorax","6d8decab5774b2c4748c1bcd971ff910","ER-V15",0,1,0
+"pneumothorax","6ed41c2b0ae30ea65ddf2b667209b23a","ER-V15",0,1,0
+"pneumothorax","718ad77712c3c3a750b9ec6752b7f8b1","ER-V15",1,0,0
+"pneumothorax","71c4b0177ea67165f92560be355d5b47","ER-V15",0,1,0
+"pneumothorax","7367fa5cab00ba95101081c98319d674","ER-V15",1,0,0
+"pneumothorax","74c8b28a934d5a0345c89969395f392a","ER-V15",0,1,0
+"pneumothorax","79c8e11afcd3b7db213570c96b1af57e","ER-V15",0,1,0
+"pneumothorax","79d3f973ca5f01fb2b4e45e6a570bd25","ER-V15",0,1,0
+"pneumothorax","7a4b17aa43b28077390e7d421765c063","ER-V15",0,1,0
+"pneumothorax","828796f1bfba31ec4b9557f8519692a3","ER-V15",1,0,0
+"pneumothorax","84479e60ac7aa976a6b7b3203bb812d1","ER-V15",0,1,0
+"pneumothorax","84862998916facc58633bb800ed2b01c","ER-V15",0,1,0
+"pneumothorax","86f4470a52077cd1fff3f5e44882dadc","ER-V15",0,1,0
+"pneumothorax","8de97fea80dfe8f7e7cc66e498343bf1","ER-V15",1,0,0
+"pneumothorax","918101a4174fe2285cb2e8e93a77200f","ER-V15",0,0,1
+"pneumothorax","92b96ecb9a1b7ec11f9bd3e734894280","ER-V15",0,1,0
+"pneumothorax","92f72ed0921a480e27a42189d6b4a9e2","ER-V15",0,0,1
+"pneumothorax","9427984d255c2a27edf1047e0f44d6bc","ER-V15",0,1,0
+"pneumothorax","9a481b7e5a72b4f3fd6a97ac4ef01789","ER-V15",0,1,0
+"pneumothorax","9e2e8237fbe6993cd5be02e41a84c06b","ER-V15",0,1,0
+"pneumothorax","9f4e451cde3e49bc9b9cad40672cc59f","ER-V15",0,1,0
+"pneumothorax","9fbddc37f414b76ed363f379fbff4836","ER-V15",0,1,0
+"pneumothorax","a08f4c215a7e8b6d63fdd6cc824ecea6","ER-V15",1,0,0
+"pneumothorax","aa78833b985af2a8a7a631b3e31dbc2f","ER-V15",0,1,0
+"pneumothorax","aaec7f339c05d0dab7e880a1eb18d1b4","ER-V15",1,0,0
+"pneumothorax","aed9d0900321b0cc51b3603d13a0dd69","ER-V15",1,0,0
+"pneumothorax","af1c59e439219f7db611a0fe49078302","ER-V15",0,1,0
+"pneumothorax","af5e9eb3afdd1979dd1895310d99e257","ER-V15",0,0,1
+"pneumothorax","afc6e23f61e42bdb8013a9c6ceb5ffcb","ER-V15",0,1,0
+"pneumothorax","b040a0ef1c621aba6a2f6ec908bda0d1","ER-V15",0,0,1
+"pneumothorax","b07a4b63a92dfc7518ad273aa8b3c4e2","ER-V15",0,1,0
+"pneumothorax","b3e211e7c1ec4fe25da84e4862e7fe85","ER-V15",0,1,0
+"pneumothorax","b515e14cb0713a4c10a3f36eab199079","ER-V15",0,1,0
+"pneumothorax","b6b086302832777a0a1f4fea72b1830d","ER-V15",0,1,0
+"pneumothorax","b7dda8c77023b1cd39f884d3978fcf23","ER-V15",0,1,0
+"pneumothorax","bc5707be7f1cd0778ccc9045bdb64f61","ER-V15",0,1,0
+"pneumothorax","bec54687199ec53fa6498e52ff3c53fd","ER-V15",0,1,0
+"pneumothorax","bedc9addd8aa195012bd9248a38f7b74","ER-V15",0,1,0
+"pneumothorax","c7dda00505bdd787a44f3e9d15bf9bed","ER-V15",0,0,1
+"pneumothorax","cd7397678ed9e7b23d88868b5a5bf6a1","ER-V15",1,0,0
+"pneumothorax","ce3509e3e9c640468a1bb994643d00ee","ER-V15",0,0,1
+"pneumothorax","d003a4069a1b8131c20af3857e93a316","ER-V15",0,1,0
+"pneumothorax","d03092dde2d8e52d13224745f2af09b0","ER-V15",0,1,0
+"pneumothorax","d3962eb5b04fe294cd0f77a0a7a1c90d","ER-V15",0,1,0
+"pneumothorax","defc5b599a307b16e64ab5ae98600b08","ER-V15",0,1,0
+"pneumothorax","e774d8cf2544fa47ad78be3b7d5a12d1","ER-V15",0,0,1
+"pneumothorax","ea72fbdbe81471f50e82caa59cb3eafc","ER-V15",0,0,1
+"pneumothorax","ebd194050bc3abbd5cb05ba059838ba8","ER-V15",0,1,0
+"pneumothorax","ebf200bdc34ddf6dd641b73c3f49e8ee","ER-V15",0,1,0
+"pneumothorax","ec7fc4f5df05f12833ded55274e0d700","ER-V15",0,1,0
+"pneumothorax","ecd9a699406109f6b31688c099032100","ER-V15",0,0,1
+"pneumothorax","f3e51153b416300ef45ea0b58df283bf","ER-V15",0,1,0
+"pneumothorax","fa285b8c370b8d0a81f0ac85816652cb","ER-V15",0,1,0
+"pneumothorax","fd32c707a65bcf9427b8b2a7380bc69e","ER-V15",0,1,0
+"pneumothorax","00f9b74a75f4771d82075b6cbf102445","ER-V5 (2)",0,1,0
+"pneumothorax","01a191230050b4edc8ed168f5007145e","ER-V5 (2)",0,1,0
+"pneumothorax","0307c8ab8ecdafa00d228f5874a4b5ed","ER-V5 (2)",0,1,0
+"pneumothorax","08324842ac2ceaf7280511b5749804c3","ER-V5 (2)",1,0,0
+"pneumothorax","08d0e9a81866fda4effaa8b9a8a38d55","ER-V5 (2)",0,1,0
+"pneumothorax","0b24d13f569ea0a85c2753ff0e37da15","ER-V5 (2)",0,1,0
+"pneumothorax","0cffe4946b1b32a85431adfec7219454","ER-V5 (2)",0,1,0
+"pneumothorax","0ef6f08908bfd84ab5f1d3188f097608","ER-V5 (2)",0,1,0
+"pneumothorax","0fcd46445e956b9088ce1058bf8d2ca7","ER-V5 (2)",0,1,0
+"pneumothorax","0fe006d9c8dd5143840b017a258d66e8","ER-V5 (2)",0,1,0
+"pneumothorax","10671650c0de2503a09cd1813fbacd16","ER-V5 (2)",0,1,0
+"pneumothorax","1145ca043b2a64960bf0a5fc14a950eb","ER-V5 (2)",0,1,0
+"pneumothorax","125dfc4d33f434219b1605392107b411","ER-V5 (2)",0,1,0
+"pneumothorax","13b670a3c571ce05dbe5be28467f51c9","ER-V5 (2)",0,1,0
+"pneumothorax","13dda295cf594e6da50aeff5a7730b94","ER-V5 (2)",0,1,0
+"pneumothorax","1593cd66a5c1630bc1fe4e92f8fa0459","ER-V5 (2)",0,1,0
+"pneumothorax","1ac5e28e82ee852c0d9a0b9da76f840d","ER-V5 (2)",0,1,0
+"pneumothorax","1ea0f2febd5b639ecf8c1fadb4858cdb","ER-V5 (2)",0,1,0
+"pneumothorax","224219e03b0a6be517ee1fdc8c132b53","ER-V5 (2)",0,1,0
+"pneumothorax","2478896e7bc5c42cba7bebc03e725f38","ER-V5 (2)",0,1,0
+"pneumothorax","2503181175a70696ecda4698d64362de","ER-V5 (2)",0,1,0
+"pneumothorax","25fc0fa8944e14149e6948f9bb3d7ef7","ER-V5 (2)",0,1,0
+"pneumothorax","26c036f8c6ca960a25250e23b9c3fb4f","ER-V5 (2)",0,1,0
+"pneumothorax","26d94a8a0622d01660c42127fd77a264","ER-V5 (2)",0,1,0
+"pneumothorax","2ad064082243acbad15279e68decb979","ER-V5 (2)",0,1,0
+"pneumothorax","328cd51eb7475c7b2c4fc27c9ba74378","ER-V5 (2)",0,1,0
+"pneumothorax","354d2c2087d292429c7cb7e01a9db7e2","ER-V5 (2)",0,1,0
+"pneumothorax","37725a946026bfcd9e89a8ce13789034","ER-V5 (2)",0,1,0
+"pneumothorax","38280f5d361720930eba73ab9a4acfdb","ER-V5 (2)",0,1,0
+"pneumothorax","3869f3fed4fada57660417e544a3472b","ER-V5 (2)",0,1,0
+"pneumothorax","38cf217dd66e6bd71159069aa30fbf05","ER-V5 (2)",0,1,0
+"pneumothorax","3c5565a646127955d358cda7c791b7d9","ER-V5 (2)",0,1,0
+"pneumothorax","440327fe9c45f8515dc0cefb071bab26","ER-V5 (2)",0,1,0
+"pneumothorax","45b652a37025a038b3530ec5480414a5","ER-V5 (2)",0,1,0
+"pneumothorax","46a2383c236bea204610a9befa8040cd","ER-V5 (2)",0,1,0
+"pneumothorax","494273fe9981337a73308937ccb12b15","ER-V5 (2)",0,1,0
+"pneumothorax","4b1e6cde28dd182f593f1d01819e27ac","ER-V5 (2)",0,1,0
+"pneumothorax","4e0f9a2236ae9ba6372401fc88903779","ER-V5 (2)",0,1,0
+"pneumothorax","5061196bc3971156e08c3ed8f89cb4e9","ER-V5 (2)",0,1,0
+"pneumothorax","5149696f2e5fc33060d8eab53acc7004","ER-V5 (2)",0,1,0
+"pneumothorax","54a2a8f29ce527e90c1215441e6107e4","ER-V5 (2)",1,0,0
+"pneumothorax","54e16112f31ce91165913cd2fe37f606","ER-V5 (2)",0,1,0
+"pneumothorax","615abc9e6f74a1ea4711e21fdc73f53e","ER-V5 (2)",0,1,0
+"pneumothorax","64548cd3fe37cce0c21cc02f0a84264a","ER-V5 (2)",0,1,0
+"pneumothorax","6b4d04d9637d69902c53032bb7fea6d2","ER-V5 (2)",0,1,0
+"pneumothorax","6cfe15a187b3676817a3e1141486e08b","ER-V5 (2)",0,1,0
+"pneumothorax","6d8decab5774b2c4748c1bcd971ff910","ER-V5 (2)",0,1,0
+"pneumothorax","6ed41c2b0ae30ea65ddf2b667209b23a","ER-V5 (2)",0,1,0
+"pneumothorax","718ad77712c3c3a750b9ec6752b7f8b1","ER-V5 (2)",0,1,0
+"pneumothorax","71c4b0177ea67165f92560be355d5b47","ER-V5 (2)",0,1,0
+"pneumothorax","7367fa5cab00ba95101081c98319d674","ER-V5 (2)",0,1,0
+"pneumothorax","74c8b28a934d5a0345c89969395f392a","ER-V5 (2)",0,1,0
+"pneumothorax","79c8e11afcd3b7db213570c96b1af57e","ER-V5 (2)",0,1,0
+"pneumothorax","79d3f973ca5f01fb2b4e45e6a570bd25","ER-V5 (2)",0,1,0
+"pneumothorax","7a4b17aa43b28077390e7d421765c063","ER-V5 (2)",0,1,0
+"pneumothorax","828796f1bfba31ec4b9557f8519692a3","ER-V5 (2)",0,1,0
+"pneumothorax","84479e60ac7aa976a6b7b3203bb812d1","ER-V5 (2)",0,1,0
+"pneumothorax","84862998916facc58633bb800ed2b01c","ER-V5 (2)",0,1,0
+"pneumothorax","86f4470a52077cd1fff3f5e44882dadc","ER-V5 (2)",0,1,0
+"pneumothorax","8de97fea80dfe8f7e7cc66e498343bf1","ER-V5 (2)",0,1,0
+"pneumothorax","918101a4174fe2285cb2e8e93a77200f","ER-V5 (2)",0,1,0
+"pneumothorax","92b96ecb9a1b7ec11f9bd3e734894280","ER-V5 (2)",0,1,0
+"pneumothorax","92f72ed0921a480e27a42189d6b4a9e2","ER-V5 (2)",0,1,0
+"pneumothorax","9427984d255c2a27edf1047e0f44d6bc","ER-V5 (2)",0,1,0
+"pneumothorax","9a481b7e5a72b4f3fd6a97ac4ef01789","ER-V5 (2)",0,1,0
+"pneumothorax","9e2e8237fbe6993cd5be02e41a84c06b","ER-V5 (2)",0,1,0
+"pneumothorax","9f4e451cde3e49bc9b9cad40672cc59f","ER-V5 (2)",0,1,0
+"pneumothorax","9fbddc37f414b76ed363f379fbff4836","ER-V5 (2)",0,1,0
+"pneumothorax","a08f4c215a7e8b6d63fdd6cc824ecea6","ER-V5 (2)",0,1,0
+"pneumothorax","aa78833b985af2a8a7a631b3e31dbc2f","ER-V5 (2)",1,0,0
+"pneumothorax","aaec7f339c05d0dab7e880a1eb18d1b4","ER-V5 (2)",0,1,0
+"pneumothorax","aed9d0900321b0cc51b3603d13a0dd69","ER-V5 (2)",0,1,0
+"pneumothorax","af1c59e439219f7db611a0fe49078302","ER-V5 (2)",0,1,0
+"pneumothorax","af5e9eb3afdd1979dd1895310d99e257","ER-V5 (2)",0,1,0
+"pneumothorax","afc6e23f61e42bdb8013a9c6ceb5ffcb","ER-V5 (2)",0,1,0
+"pneumothorax","b040a0ef1c621aba6a2f6ec908bda0d1","ER-V5 (2)",0,1,0
+"pneumothorax","b07a4b63a92dfc7518ad273aa8b3c4e2","ER-V5 (2)",0,1,0
+"pneumothorax","b3e211e7c1ec4fe25da84e4862e7fe85","ER-V5 (2)",0,1,0
+"pneumothorax","b515e14cb0713a4c10a3f36eab199079","ER-V5 (2)",0,1,0
+"pneumothorax","b6b086302832777a0a1f4fea72b1830d","ER-V5 (2)",0,1,0
+"pneumothorax","b7dda8c77023b1cd39f884d3978fcf23","ER-V5 (2)",0,1,0
+"pneumothorax","bc5707be7f1cd0778ccc9045bdb64f61","ER-V5 (2)",0,1,0
+"pneumothorax","bec54687199ec53fa6498e52ff3c53fd","ER-V5 (2)",0,1,0
+"pneumothorax","bedc9addd8aa195012bd9248a38f7b74","ER-V5 (2)",0,1,0
+"pneumothorax","c7dda00505bdd787a44f3e9d15bf9bed","ER-V5 (2)",0,1,0
+"pneumothorax","cd7397678ed9e7b23d88868b5a5bf6a1","ER-V5 (2)",0,1,0
+"pneumothorax","ce3509e3e9c640468a1bb994643d00ee","ER-V5 (2)",0,1,0
+"pneumothorax","d003a4069a1b8131c20af3857e93a316","ER-V5 (2)",0,1,0
+"pneumothorax","d03092dde2d8e52d13224745f2af09b0","ER-V5 (2)",0,1,0
+"pneumothorax","d3962eb5b04fe294cd0f77a0a7a1c90d","ER-V5 (2)",0,1,0
+"pneumothorax","defc5b599a307b16e64ab5ae98600b08","ER-V5 (2)",0,1,0
+"pneumothorax","e774d8cf2544fa47ad78be3b7d5a12d1","ER-V5 (2)",0,1,0
+"pneumothorax","ea72fbdbe81471f50e82caa59cb3eafc","ER-V5 (2)",0,1,0
+"pneumothorax","ebd194050bc3abbd5cb05ba059838ba8","ER-V5 (2)",0,1,0
+"pneumothorax","ebf200bdc34ddf6dd641b73c3f49e8ee","ER-V5 (2)",0,1,0
+"pneumothorax","ec7fc4f5df05f12833ded55274e0d700","ER-V5 (2)",0,1,0
+"pneumothorax","ecd9a699406109f6b31688c099032100","ER-V5 (2)",0,1,0
+"pneumothorax","f3e51153b416300ef45ea0b58df283bf","ER-V5 (2)",0,1,0
+"pneumothorax","fa285b8c370b8d0a81f0ac85816652cb","ER-V5 (2)",0,1,0
+"pneumothorax","fd32c707a65bcf9427b8b2a7380bc69e","ER-V5 (2)",0,1,0

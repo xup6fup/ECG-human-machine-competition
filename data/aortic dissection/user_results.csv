@@ -1,0 +1,801 @@
+"exam_type","hash_id","DOCTOR_ID","USER_ANSWER[Aortic Dissection - Type A]","USER_ANSWER[Aortic Dissection - Type B]","USER_ANSWER[Normal]"
+"aortic dissection","04a3faf3453c701bb71c2ebe99969722","CV-R2 (1)",0,0,1
+"aortic dissection","0f05c1a732a6cbfa74772fa2f2cffad8","CV-R2 (1)",0,0,1
+"aortic dissection","0ffbc9ba966bcda2892597d2685291ab","CV-R2 (1)",1,0,0
+"aortic dissection","17743be27ec900cb919a793e389e442d","CV-R2 (1)",0,0,1
+"aortic dissection","19d7261516990569401e5377b90c1304","CV-R2 (1)",0,0,1
+"aortic dissection","1a31ceb259703a3fce34b24bb44609e3","CV-R2 (1)",0,0,1
+"aortic dissection","1b68131d83768e0a95ff2043b0dd72e1","CV-R2 (1)",1,0,0
+"aortic dissection","1cad10dd95573230240fb751a435a88e","CV-R2 (1)",0,0,1
+"aortic dissection","20446bf9b2be196ddeee06e057b44b12","CV-R2 (1)",1,0,0
+"aortic dissection","20e65db89ba4dc9fb867406b2a7136f7","CV-R2 (1)",0,0,1
+"aortic dissection","220f79b9e628e9d691fc8c742353ffe1","CV-R2 (1)",0,0,1
+"aortic dissection","22ea434599cf87cb5468dfa5e99b7fcc","CV-R2 (1)",1,0,0
+"aortic dissection","26face5b88db175a63d1086522d86945","CV-R2 (1)",1,0,0
+"aortic dissection","2820af3d34251be004695e4bd5ef06e5","CV-R2 (1)",0,0,1
+"aortic dissection","284353d76620437814d994718f739803","CV-R2 (1)",0,0,1
+"aortic dissection","290a122fe9e702facf672fff476873ba","CV-R2 (1)",1,0,0
+"aortic dissection","2bc61965fb0267d061c830ac6a6f9f45","CV-R2 (1)",1,0,0
+"aortic dissection","2da2fe3c2c3021900548d484cb76bd8f","CV-R2 (1)",0,0,1
+"aortic dissection","2fdec0408fb30e570649afe74b8ae366","CV-R2 (1)",0,0,1
+"aortic dissection","306f2de810a0375293c14c3c2550c740","CV-R2 (1)",0,0,1
+"aortic dissection","30eb61cd1a13088636175da98ef553a0","CV-R2 (1)",1,0,0
+"aortic dissection","318f3bc1f95799c748857ec197e97f8c","CV-R2 (1)",0,1,0
+"aortic dissection","32d752904d87f71f8afc476b544db001","CV-R2 (1)",0,0,1
+"aortic dissection","3353c19be28d490b83b23cb372eb4c96","CV-R2 (1)",1,0,0
+"aortic dissection","35e1c33ac51ae610f291d20e06872ca1","CV-R2 (1)",1,0,0
+"aortic dissection","3b467bf1a35274f9bcadd5252702ea22","CV-R2 (1)",0,0,1
+"aortic dissection","3d5513e52c6b736609e567644ba7a450","CV-R2 (1)",0,1,0
+"aortic dissection","3e74470fe2a4d9e488831d0634358e86","CV-R2 (1)",1,0,0
+"aortic dissection","499b20089299eda6ee534405b0663fc1","CV-R2 (1)",0,1,0
+"aortic dissection","4b869f44ee3db0046cf22e9f394941a9","CV-R2 (1)",0,0,1
+"aortic dissection","4d3770a9d68a708e7ec579c128b829b0","CV-R2 (1)",0,0,1
+"aortic dissection","4fa5a2735299ca7fcbf8d8ee376f93c5","CV-R2 (1)",1,0,0
+"aortic dissection","539c018864a3e56ca4d173c6500bb1fa","CV-R2 (1)",0,0,1
+"aortic dissection","53c66c9bfc8eac961f031e4dee65f912","CV-R2 (1)",0,1,0
+"aortic dissection","53ee5fa341d6167b62535f106298c424","CV-R2 (1)",0,0,1
+"aortic dissection","5426b554b4a421fa47b793164d1d1179","CV-R2 (1)",0,0,1
+"aortic dissection","55f5235c2e0f85fcd59bb258cd0e5c42","CV-R2 (1)",1,0,0
+"aortic dissection","56b20d17ab65fbc7349076528e379bf6","CV-R2 (1)",0,0,1
+"aortic dissection","588a3208b126c03d71f41730ef6f487f","CV-R2 (1)",0,0,1
+"aortic dissection","5af16b02055fc2c50cf1085c06725357","CV-R2 (1)",1,0,0
+"aortic dissection","5cd5b6a5e8cf3828d7ae0e23a237e1ee","CV-R2 (1)",0,0,1
+"aortic dissection","5f8eaf5a9d9ebb4dade9f555703de4c5","CV-R2 (1)",0,0,1
+"aortic dissection","63fe2d7d1e82ce85038f106c8f60d92a","CV-R2 (1)",1,0,0
+"aortic dissection","64057cb4356349c2a4d0dae9faec7e13","CV-R2 (1)",0,0,1
+"aortic dissection","6e24d9aa7f74d8c0b553b925f679aca9","CV-R2 (1)",0,1,0
+"aortic dissection","6f5d1b0fa27d296b3e95f7686c600b8a","CV-R2 (1)",0,0,1
+"aortic dissection","732648652eab0885d7da8ecc4e752b53","CV-R2 (1)",1,0,0
+"aortic dissection","73f65a187579e22828270770e70a774f","CV-R2 (1)",0,0,1
+"aortic dissection","78b3189b1bf4846b90ae896f670aff8e","CV-R2 (1)",0,0,1
+"aortic dissection","81c8fbae34c91f234c5dcce6f33b2349","CV-R2 (1)",1,0,0
+"aortic dissection","82e1ec45bc2248391e8bfe20587215e5","CV-R2 (1)",0,1,0
+"aortic dissection","83505f9afc8c9e7b3da0c20b37dce459","CV-R2 (1)",0,0,1
+"aortic dissection","849c908048ae4ae12d75cb45dc263135","CV-R2 (1)",0,0,1
+"aortic dissection","85c0f4c7925cf765ebf6bbb90fd9d76c","CV-R2 (1)",0,0,1
+"aortic dissection","85c29371dc806ff54c1ba0a4189ba3ed","CV-R2 (1)",1,0,0
+"aortic dissection","8721a3dca9e50271186e65d9723473ac","CV-R2 (1)",0,0,1
+"aortic dissection","87aae72227f790f48206752432e8e831","CV-R2 (1)",0,0,1
+"aortic dissection","8876f94aeb687e8895cc92a400b68c50","CV-R2 (1)",0,0,1
+"aortic dissection","888daaaee551f1aa7c0ea25532647fa3","CV-R2 (1)",1,0,0
+"aortic dissection","8a289caaf8b039fa21f931996866315f","CV-R2 (1)",0,0,1
+"aortic dissection","8ba7ad457237599b719f3982c3b94442","CV-R2 (1)",0,0,1
+"aortic dissection","8c3cc489003672ced7d083b4ad970aaa","CV-R2 (1)",0,0,1
+"aortic dissection","8d8390f292b8ea1a63b053c29c12a3af","CV-R2 (1)",0,0,1
+"aortic dissection","901ed024cffa3e03ed50cbe7f4a977c5","CV-R2 (1)",1,0,0
+"aortic dissection","90c00a7c3966e09afd4c021ecf481c97","CV-R2 (1)",0,0,1
+"aortic dissection","99dd12d39ed9409bfbf342ab396d0006","CV-R2 (1)",0,0,1
+"aortic dissection","99e5c4fb27ca76b18d7b712cbb29ea78","CV-R2 (1)",0,0,1
+"aortic dissection","9e0ab392ccab023db1b6837e2fbc2186","CV-R2 (1)",0,0,1
+"aortic dissection","a25f1522f5d592c725bc79c8515c5499","CV-R2 (1)",0,1,0
+"aortic dissection","a5591f4eb5ec0ce228e54b2ba33e7ed2","CV-R2 (1)",1,0,0
+"aortic dissection","a783392504814a2c8ee36130dd04cf42","CV-R2 (1)",0,0,1
+"aortic dissection","a85c2da48be80960c11b8c5bb30ad2ce","CV-R2 (1)",0,0,1
+"aortic dissection","a92dfa6d3ed9c255ee1181c19b4d6faf","CV-R2 (1)",0,0,1
+"aortic dissection","ab46b3a9c432659db5fd7516319662b3","CV-R2 (1)",0,0,1
+"aortic dissection","abcf7ac89dfe264326f66829739c36aa","CV-R2 (1)",0,0,1
+"aortic dissection","b011c0d72f09404dbfeffa878fa7149e","CV-R2 (1)",1,0,0
+"aortic dissection","b21c1fbf6d8528ccf6883b983c5ce786","CV-R2 (1)",0,0,1
+"aortic dissection","b4d5ec0c1cc7e4fd123029826b1ae74c","CV-R2 (1)",1,0,0
+"aortic dissection","b8f128e127f63f40887df35d30599f98","CV-R2 (1)",0,0,1
+"aortic dissection","bdcadff11208bbdce69244f961060e28","CV-R2 (1)",0,0,1
+"aortic dissection","bfaee172def7e8114a460f2f3519eb98","CV-R2 (1)",0,0,1
+"aortic dissection","bfaf380965237cb7a4b227de0a0abf6d","CV-R2 (1)",0,1,0
+"aortic dissection","c1dc1c4addf2b7eaed2c0b918ef73024","CV-R2 (1)",0,1,0
+"aortic dissection","c4effe7d5446cce2e777e4249a7aa789","CV-R2 (1)",1,0,0
+"aortic dissection","c8035dc7e78d1ef4d642d066a8104b17","CV-R2 (1)",0,1,0
+"aortic dissection","cbf988bbcea64278c14d553509aee18d","CV-R2 (1)",1,0,0
+"aortic dissection","d1cd9353f23d03a5a96019cd4b43ab78","CV-R2 (1)",0,1,0
+"aortic dissection","d2d48d76b347e96b52a0735d8e5bcf52","CV-R2 (1)",1,0,0
+"aortic dissection","d45f01f567586d94440769e4cbd7b3c7","CV-R2 (1)",0,0,1
+"aortic dissection","d67b669e94e26a60e475e5c8f2a45743","CV-R2 (1)",0,0,1
+"aortic dissection","dc99b4c4cbbd6cf68a403af152019196","CV-R2 (1)",0,0,1
+"aortic dissection","dcd20d6220096ee260de15618b6e1418","CV-R2 (1)",0,0,1
+"aortic dissection","e2a94bfb6e734ede3dff36306150e9d3","CV-R2 (1)",1,0,0
+"aortic dissection","e511003bc7d8d485af12861df0479e58","CV-R2 (1)",0,0,1
+"aortic dissection","e644fa4a113721a47d24e81e74a1cb8f","CV-R2 (1)",0,0,1
+"aortic dissection","ed719b89295984c9f6319100e4e93a15","CV-R2 (1)",1,0,0
+"aortic dissection","efa740d2d2cda029b0cc7bb8b8db8b22","CV-R2 (1)",0,0,1
+"aortic dissection","f04e456bb62b3eadf0a2af8a509bbfa2","CV-R2 (1)",0,0,1
+"aortic dissection","f1d86d64fae646d2cf37f05d6a023831","CV-R2 (1)",0,0,1
+"aortic dissection","f35a073987fb51c77e80c72f7b91bfb7","CV-R2 (1)",0,0,1
+"aortic dissection","04a3faf3453c701bb71c2ebe99969722","CV-R2 (3)",0,0,1
+"aortic dissection","0f05c1a732a6cbfa74772fa2f2cffad8","CV-R2 (3)",0,0,1
+"aortic dissection","0ffbc9ba966bcda2892597d2685291ab","CV-R2 (3)",1,0,0
+"aortic dissection","17743be27ec900cb919a793e389e442d","CV-R2 (3)",0,0,1
+"aortic dissection","19d7261516990569401e5377b90c1304","CV-R2 (3)",1,0,0
+"aortic dissection","1a31ceb259703a3fce34b24bb44609e3","CV-R2 (3)",1,0,0
+"aortic dissection","1b68131d83768e0a95ff2043b0dd72e1","CV-R2 (3)",0,1,0
+"aortic dissection","1cad10dd95573230240fb751a435a88e","CV-R2 (3)",1,0,0
+"aortic dissection","20446bf9b2be196ddeee06e057b44b12","CV-R2 (3)",1,0,0
+"aortic dissection","20e65db89ba4dc9fb867406b2a7136f7","CV-R2 (3)",0,0,1
+"aortic dissection","220f79b9e628e9d691fc8c742353ffe1","CV-R2 (3)",0,0,1
+"aortic dissection","22ea434599cf87cb5468dfa5e99b7fcc","CV-R2 (3)",0,1,0
+"aortic dissection","26face5b88db175a63d1086522d86945","CV-R2 (3)",0,1,0
+"aortic dissection","2820af3d34251be004695e4bd5ef06e5","CV-R2 (3)",0,0,1
+"aortic dissection","284353d76620437814d994718f739803","CV-R2 (3)",0,1,0
+"aortic dissection","290a122fe9e702facf672fff476873ba","CV-R2 (3)",0,1,0
+"aortic dissection","2bc61965fb0267d061c830ac6a6f9f45","CV-R2 (3)",0,0,1
+"aortic dissection","2da2fe3c2c3021900548d484cb76bd8f","CV-R2 (3)",0,0,1
+"aortic dissection","2fdec0408fb30e570649afe74b8ae366","CV-R2 (3)",1,0,0
+"aortic dissection","306f2de810a0375293c14c3c2550c740","CV-R2 (3)",1,0,0
+"aortic dissection","30eb61cd1a13088636175da98ef553a0","CV-R2 (3)",1,0,0
+"aortic dissection","318f3bc1f95799c748857ec197e97f8c","CV-R2 (3)",1,0,0
+"aortic dissection","32d752904d87f71f8afc476b544db001","CV-R2 (3)",1,0,0
+"aortic dissection","3353c19be28d490b83b23cb372eb4c96","CV-R2 (3)",1,0,0
+"aortic dissection","35e1c33ac51ae610f291d20e06872ca1","CV-R2 (3)",1,0,0
+"aortic dissection","3b467bf1a35274f9bcadd5252702ea22","CV-R2 (3)",0,0,1
+"aortic dissection","3d5513e52c6b736609e567644ba7a450","CV-R2 (3)",0,1,0
+"aortic dissection","3e74470fe2a4d9e488831d0634358e86","CV-R2 (3)",1,0,0
+"aortic dissection","499b20089299eda6ee534405b0663fc1","CV-R2 (3)",0,0,1
+"aortic dissection","4b869f44ee3db0046cf22e9f394941a9","CV-R2 (3)",1,0,0
+"aortic dissection","4d3770a9d68a708e7ec579c128b829b0","CV-R2 (3)",0,0,1
+"aortic dissection","4fa5a2735299ca7fcbf8d8ee376f93c5","CV-R2 (3)",1,0,0
+"aortic dissection","539c018864a3e56ca4d173c6500bb1fa","CV-R2 (3)",1,0,0
+"aortic dissection","53c66c9bfc8eac961f031e4dee65f912","CV-R2 (3)",1,0,0
+"aortic dissection","53ee5fa341d6167b62535f106298c424","CV-R2 (3)",0,0,1
+"aortic dissection","5426b554b4a421fa47b793164d1d1179","CV-R2 (3)",0,0,1
+"aortic dissection","55f5235c2e0f85fcd59bb258cd0e5c42","CV-R2 (3)",0,1,0
+"aortic dissection","56b20d17ab65fbc7349076528e379bf6","CV-R2 (3)",0,1,0
+"aortic dissection","588a3208b126c03d71f41730ef6f487f","CV-R2 (3)",1,0,0
+"aortic dissection","5af16b02055fc2c50cf1085c06725357","CV-R2 (3)",0,1,0
+"aortic dissection","5cd5b6a5e8cf3828d7ae0e23a237e1ee","CV-R2 (3)",0,0,1
+"aortic dissection","5f8eaf5a9d9ebb4dade9f555703de4c5","CV-R2 (3)",1,0,0
+"aortic dissection","63fe2d7d1e82ce85038f106c8f60d92a","CV-R2 (3)",0,1,0
+"aortic dissection","64057cb4356349c2a4d0dae9faec7e13","CV-R2 (3)",1,0,0
+"aortic dissection","6e24d9aa7f74d8c0b553b925f679aca9","CV-R2 (3)",1,0,0
+"aortic dissection","6f5d1b0fa27d296b3e95f7686c600b8a","CV-R2 (3)",0,0,1
+"aortic dissection","732648652eab0885d7da8ecc4e752b53","CV-R2 (3)",1,0,0
+"aortic dissection","73f65a187579e22828270770e70a774f","CV-R2 (3)",0,0,1
+"aortic dissection","78b3189b1bf4846b90ae896f670aff8e","CV-R2 (3)",0,0,1
+"aortic dissection","81c8fbae34c91f234c5dcce6f33b2349","CV-R2 (3)",1,0,0
+"aortic dissection","82e1ec45bc2248391e8bfe20587215e5","CV-R2 (3)",1,0,0
+"aortic dissection","83505f9afc8c9e7b3da0c20b37dce459","CV-R2 (3)",1,0,0
+"aortic dissection","849c908048ae4ae12d75cb45dc263135","CV-R2 (3)",1,0,0
+"aortic dissection","85c0f4c7925cf765ebf6bbb90fd9d76c","CV-R2 (3)",0,0,1
+"aortic dissection","85c29371dc806ff54c1ba0a4189ba3ed","CV-R2 (3)",1,0,0
+"aortic dissection","8721a3dca9e50271186e65d9723473ac","CV-R2 (3)",1,0,0
+"aortic dissection","87aae72227f790f48206752432e8e831","CV-R2 (3)",1,0,0
+"aortic dissection","8876f94aeb687e8895cc92a400b68c50","CV-R2 (3)",0,1,0
+"aortic dissection","888daaaee551f1aa7c0ea25532647fa3","CV-R2 (3)",0,1,0
+"aortic dissection","8a289caaf8b039fa21f931996866315f","CV-R2 (3)",0,0,1
+"aortic dissection","8ba7ad457237599b719f3982c3b94442","CV-R2 (3)",1,0,0
+"aortic dissection","8c3cc489003672ced7d083b4ad970aaa","CV-R2 (3)",0,0,1
+"aortic dissection","8d8390f292b8ea1a63b053c29c12a3af","CV-R2 (3)",0,0,1
+"aortic dissection","901ed024cffa3e03ed50cbe7f4a977c5","CV-R2 (3)",1,0,0
+"aortic dissection","90c00a7c3966e09afd4c021ecf481c97","CV-R2 (3)",0,1,0
+"aortic dissection","99dd12d39ed9409bfbf342ab396d0006","CV-R2 (3)",1,0,0
+"aortic dissection","99e5c4fb27ca76b18d7b712cbb29ea78","CV-R2 (3)",1,0,0
+"aortic dissection","9e0ab392ccab023db1b6837e2fbc2186","CV-R2 (3)",0,0,1
+"aortic dissection","a25f1522f5d592c725bc79c8515c5499","CV-R2 (3)",0,1,0
+"aortic dissection","a5591f4eb5ec0ce228e54b2ba33e7ed2","CV-R2 (3)",0,0,1
+"aortic dissection","a783392504814a2c8ee36130dd04cf42","CV-R2 (3)",0,0,1
+"aortic dissection","a85c2da48be80960c11b8c5bb30ad2ce","CV-R2 (3)",0,0,1
+"aortic dissection","a92dfa6d3ed9c255ee1181c19b4d6faf","CV-R2 (3)",0,1,0
+"aortic dissection","ab46b3a9c432659db5fd7516319662b3","CV-R2 (3)",0,1,0
+"aortic dissection","abcf7ac89dfe264326f66829739c36aa","CV-R2 (3)",0,0,1
+"aortic dissection","b011c0d72f09404dbfeffa878fa7149e","CV-R2 (3)",0,1,0
+"aortic dissection","b21c1fbf6d8528ccf6883b983c5ce786","CV-R2 (3)",0,0,1
+"aortic dissection","b4d5ec0c1cc7e4fd123029826b1ae74c","CV-R2 (3)",0,1,0
+"aortic dissection","b8f128e127f63f40887df35d30599f98","CV-R2 (3)",0,0,1
+"aortic dissection","bdcadff11208bbdce69244f961060e28","CV-R2 (3)",0,1,0
+"aortic dissection","bfaee172def7e8114a460f2f3519eb98","CV-R2 (3)",1,0,0
+"aortic dissection","bfaf380965237cb7a4b227de0a0abf6d","CV-R2 (3)",1,0,0
+"aortic dissection","c1dc1c4addf2b7eaed2c0b918ef73024","CV-R2 (3)",1,0,0
+"aortic dissection","c4effe7d5446cce2e777e4249a7aa789","CV-R2 (3)",1,0,0
+"aortic dissection","c8035dc7e78d1ef4d642d066a8104b17","CV-R2 (3)",0,1,0
+"aortic dissection","cbf988bbcea64278c14d553509aee18d","CV-R2 (3)",1,0,0
+"aortic dissection","d1cd9353f23d03a5a96019cd4b43ab78","CV-R2 (3)",0,0,1
+"aortic dissection","d2d48d76b347e96b52a0735d8e5bcf52","CV-R2 (3)",0,1,0
+"aortic dissection","d45f01f567586d94440769e4cbd7b3c7","CV-R2 (3)",0,0,1
+"aortic dissection","d67b669e94e26a60e475e5c8f2a45743","CV-R2 (3)",0,0,1
+"aortic dissection","dc99b4c4cbbd6cf68a403af152019196","CV-R2 (3)",1,0,0
+"aortic dissection","dcd20d6220096ee260de15618b6e1418","CV-R2 (3)",1,0,0
+"aortic dissection","e2a94bfb6e734ede3dff36306150e9d3","CV-R2 (3)",1,0,0
+"aortic dissection","e511003bc7d8d485af12861df0479e58","CV-R2 (3)",1,0,0
+"aortic dissection","e644fa4a113721a47d24e81e74a1cb8f","CV-R2 (3)",1,0,0
+"aortic dissection","ed719b89295984c9f6319100e4e93a15","CV-R2 (3)",0,1,0
+"aortic dissection","efa740d2d2cda029b0cc7bb8b8db8b22","CV-R2 (3)",1,0,0
+"aortic dissection","f04e456bb62b3eadf0a2af8a509bbfa2","CV-R2 (3)",1,0,0
+"aortic dissection","f1d86d64fae646d2cf37f05d6a023831","CV-R2 (3)",0,0,1
+"aortic dissection","f35a073987fb51c77e80c72f7b91bfb7","CV-R2 (3)",1,0,0
+"aortic dissection","04a3faf3453c701bb71c2ebe99969722","CV-V10",0,0,1
+"aortic dissection","0f05c1a732a6cbfa74772fa2f2cffad8","CV-V10",0,0,1
+"aortic dissection","0ffbc9ba966bcda2892597d2685291ab","CV-V10",0,1,0
+"aortic dissection","17743be27ec900cb919a793e389e442d","CV-V10",0,0,1
+"aortic dissection","19d7261516990569401e5377b90c1304","CV-V10",1,0,0
+"aortic dissection","1a31ceb259703a3fce34b24bb44609e3","CV-V10",0,0,1
+"aortic dissection","1b68131d83768e0a95ff2043b0dd72e1","CV-V10",0,1,0
+"aortic dissection","1cad10dd95573230240fb751a435a88e","CV-V10",0,0,1
+"aortic dissection","20446bf9b2be196ddeee06e057b44b12","CV-V10",1,0,0
+"aortic dissection","20e65db89ba4dc9fb867406b2a7136f7","CV-V10",0,0,1
+"aortic dissection","220f79b9e628e9d691fc8c742353ffe1","CV-V10",0,0,1
+"aortic dissection","22ea434599cf87cb5468dfa5e99b7fcc","CV-V10",0,1,0
+"aortic dissection","26face5b88db175a63d1086522d86945","CV-V10",1,0,0
+"aortic dissection","2820af3d34251be004695e4bd5ef06e5","CV-V10",1,0,0
+"aortic dissection","284353d76620437814d994718f739803","CV-V10",0,0,1
+"aortic dissection","290a122fe9e702facf672fff476873ba","CV-V10",0,1,0
+"aortic dissection","2bc61965fb0267d061c830ac6a6f9f45","CV-V10",0,1,0
+"aortic dissection","2da2fe3c2c3021900548d484cb76bd8f","CV-V10",0,0,1
+"aortic dissection","2fdec0408fb30e570649afe74b8ae366","CV-V10",0,0,1
+"aortic dissection","306f2de810a0375293c14c3c2550c740","CV-V10",0,0,1
+"aortic dissection","30eb61cd1a13088636175da98ef553a0","CV-V10",1,0,0
+"aortic dissection","318f3bc1f95799c748857ec197e97f8c","CV-V10",1,0,0
+"aortic dissection","32d752904d87f71f8afc476b544db001","CV-V10",0,0,1
+"aortic dissection","3353c19be28d490b83b23cb372eb4c96","CV-V10",0,1,0
+"aortic dissection","35e1c33ac51ae610f291d20e06872ca1","CV-V10",1,0,0
+"aortic dissection","3b467bf1a35274f9bcadd5252702ea22","CV-V10",0,0,1
+"aortic dissection","3d5513e52c6b736609e567644ba7a450","CV-V10",0,0,1
+"aortic dissection","3e74470fe2a4d9e488831d0634358e86","CV-V10",1,0,0
+"aortic dissection","499b20089299eda6ee534405b0663fc1","CV-V10",1,0,0
+"aortic dissection","4b869f44ee3db0046cf22e9f394941a9","CV-V10",0,1,0
+"aortic dissection","4d3770a9d68a708e7ec579c128b829b0","CV-V10",0,0,1
+"aortic dissection","4fa5a2735299ca7fcbf8d8ee376f93c5","CV-V10",0,0,1
+"aortic dissection","539c018864a3e56ca4d173c6500bb1fa","CV-V10",0,0,1
+"aortic dissection","53c66c9bfc8eac961f031e4dee65f912","CV-V10",0,1,0
+"aortic dissection","53ee5fa341d6167b62535f106298c424","CV-V10",0,0,1
+"aortic dissection","5426b554b4a421fa47b793164d1d1179","CV-V10",0,0,1
+"aortic dissection","55f5235c2e0f85fcd59bb258cd0e5c42","CV-V10",1,0,0
+"aortic dissection","56b20d17ab65fbc7349076528e379bf6","CV-V10",1,0,0
+"aortic dissection","588a3208b126c03d71f41730ef6f487f","CV-V10",0,1,0
+"aortic dissection","5af16b02055fc2c50cf1085c06725357","CV-V10",1,0,0
+"aortic dissection","5cd5b6a5e8cf3828d7ae0e23a237e1ee","CV-V10",0,0,1
+"aortic dissection","5f8eaf5a9d9ebb4dade9f555703de4c5","CV-V10",1,0,0
+"aortic dissection","63fe2d7d1e82ce85038f106c8f60d92a","CV-V10",0,1,0
+"aortic dissection","64057cb4356349c2a4d0dae9faec7e13","CV-V10",1,0,0
+"aortic dissection","6e24d9aa7f74d8c0b553b925f679aca9","CV-V10",1,0,0
+"aortic dissection","6f5d1b0fa27d296b3e95f7686c600b8a","CV-V10",0,0,1
+"aortic dissection","732648652eab0885d7da8ecc4e752b53","CV-V10",0,1,0
+"aortic dissection","73f65a187579e22828270770e70a774f","CV-V10",0,1,0
+"aortic dissection","78b3189b1bf4846b90ae896f670aff8e","CV-V10",0,0,1
+"aortic dissection","81c8fbae34c91f234c5dcce6f33b2349","CV-V10",1,0,0
+"aortic dissection","82e1ec45bc2248391e8bfe20587215e5","CV-V10",1,0,0
+"aortic dissection","83505f9afc8c9e7b3da0c20b37dce459","CV-V10",1,0,0
+"aortic dissection","849c908048ae4ae12d75cb45dc263135","CV-V10",0,0,1
+"aortic dissection","85c0f4c7925cf765ebf6bbb90fd9d76c","CV-V10",0,0,1
+"aortic dissection","85c29371dc806ff54c1ba0a4189ba3ed","CV-V10",0,1,0
+"aortic dissection","8721a3dca9e50271186e65d9723473ac","CV-V10",1,0,0
+"aortic dissection","87aae72227f790f48206752432e8e831","CV-V10",1,0,0
+"aortic dissection","8876f94aeb687e8895cc92a400b68c50","CV-V10",0,0,1
+"aortic dissection","888daaaee551f1aa7c0ea25532647fa3","CV-V10",0,1,0
+"aortic dissection","8a289caaf8b039fa21f931996866315f","CV-V10",0,0,1
+"aortic dissection","8ba7ad457237599b719f3982c3b94442","CV-V10",0,0,1
+"aortic dissection","8c3cc489003672ced7d083b4ad970aaa","CV-V10",0,0,1
+"aortic dissection","8d8390f292b8ea1a63b053c29c12a3af","CV-V10",0,0,1
+"aortic dissection","901ed024cffa3e03ed50cbe7f4a977c5","CV-V10",0,1,0
+"aortic dissection","90c00a7c3966e09afd4c021ecf481c97","CV-V10",1,0,0
+"aortic dissection","99dd12d39ed9409bfbf342ab396d0006","CV-V10",1,0,0
+"aortic dissection","99e5c4fb27ca76b18d7b712cbb29ea78","CV-V10",0,1,0
+"aortic dissection","9e0ab392ccab023db1b6837e2fbc2186","CV-V10",0,0,1
+"aortic dissection","a25f1522f5d592c725bc79c8515c5499","CV-V10",0,1,0
+"aortic dissection","a5591f4eb5ec0ce228e54b2ba33e7ed2","CV-V10",1,0,0
+"aortic dissection","a783392504814a2c8ee36130dd04cf42","CV-V10",1,0,0
+"aortic dissection","a85c2da48be80960c11b8c5bb30ad2ce","CV-V10",0,0,1
+"aortic dissection","a92dfa6d3ed9c255ee1181c19b4d6faf","CV-V10",0,0,1
+"aortic dissection","ab46b3a9c432659db5fd7516319662b3","CV-V10",1,0,0
+"aortic dissection","abcf7ac89dfe264326f66829739c36aa","CV-V10",0,1,0
+"aortic dissection","b011c0d72f09404dbfeffa878fa7149e","CV-V10",1,0,0
+"aortic dissection","b21c1fbf6d8528ccf6883b983c5ce786","CV-V10",1,0,0
+"aortic dissection","b4d5ec0c1cc7e4fd123029826b1ae74c","CV-V10",1,0,0
+"aortic dissection","b8f128e127f63f40887df35d30599f98","CV-V10",0,1,0
+"aortic dissection","bdcadff11208bbdce69244f961060e28","CV-V10",1,0,0
+"aortic dissection","bfaee172def7e8114a460f2f3519eb98","CV-V10",1,0,0
+"aortic dissection","bfaf380965237cb7a4b227de0a0abf6d","CV-V10",0,1,0
+"aortic dissection","c1dc1c4addf2b7eaed2c0b918ef73024","CV-V10",0,1,0
+"aortic dissection","c4effe7d5446cce2e777e4249a7aa789","CV-V10",0,1,0
+"aortic dissection","c8035dc7e78d1ef4d642d066a8104b17","CV-V10",1,0,0
+"aortic dissection","cbf988bbcea64278c14d553509aee18d","CV-V10",0,0,1
+"aortic dissection","d1cd9353f23d03a5a96019cd4b43ab78","CV-V10",0,0,1
+"aortic dissection","d2d48d76b347e96b52a0735d8e5bcf52","CV-V10",0,1,0
+"aortic dissection","d45f01f567586d94440769e4cbd7b3c7","CV-V10",1,0,0
+"aortic dissection","d67b669e94e26a60e475e5c8f2a45743","CV-V10",1,0,0
+"aortic dissection","dc99b4c4cbbd6cf68a403af152019196","CV-V10",0,0,1
+"aortic dissection","dcd20d6220096ee260de15618b6e1418","CV-V10",1,0,0
+"aortic dissection","e2a94bfb6e734ede3dff36306150e9d3","CV-V10",0,1,0
+"aortic dissection","e511003bc7d8d485af12861df0479e58","CV-V10",0,0,1
+"aortic dissection","e644fa4a113721a47d24e81e74a1cb8f","CV-V10",1,0,0
+"aortic dissection","ed719b89295984c9f6319100e4e93a15","CV-V10",1,0,0
+"aortic dissection","efa740d2d2cda029b0cc7bb8b8db8b22","CV-V10",1,0,0
+"aortic dissection","f04e456bb62b3eadf0a2af8a509bbfa2","CV-V10",0,0,1
+"aortic dissection","f1d86d64fae646d2cf37f05d6a023831","CV-V10",0,0,1
+"aortic dissection","f35a073987fb51c77e80c72f7b91bfb7","CV-V10",1,0,0
+"aortic dissection","04a3faf3453c701bb71c2ebe99969722","CV-V9",0,0,1
+"aortic dissection","0f05c1a732a6cbfa74772fa2f2cffad8","CV-V9",0,0,1
+"aortic dissection","0ffbc9ba966bcda2892597d2685291ab","CV-V9",0,1,0
+"aortic dissection","17743be27ec900cb919a793e389e442d","CV-V9",0,0,1
+"aortic dissection","19d7261516990569401e5377b90c1304","CV-V9",0,0,1
+"aortic dissection","1a31ceb259703a3fce34b24bb44609e3","CV-V9",0,0,1
+"aortic dissection","1b68131d83768e0a95ff2043b0dd72e1","CV-V9",0,0,1
+"aortic dissection","1cad10dd95573230240fb751a435a88e","CV-V9",0,0,1
+"aortic dissection","20446bf9b2be196ddeee06e057b44b12","CV-V9",0,1,0
+"aortic dissection","20e65db89ba4dc9fb867406b2a7136f7","CV-V9",0,0,1
+"aortic dissection","220f79b9e628e9d691fc8c742353ffe1","CV-V9",0,0,1
+"aortic dissection","22ea434599cf87cb5468dfa5e99b7fcc","CV-V9",0,0,1
+"aortic dissection","26face5b88db175a63d1086522d86945","CV-V9",0,0,1
+"aortic dissection","2820af3d34251be004695e4bd5ef06e5","CV-V9",0,0,1
+"aortic dissection","284353d76620437814d994718f739803","CV-V9",0,0,1
+"aortic dissection","290a122fe9e702facf672fff476873ba","CV-V9",0,1,0
+"aortic dissection","2bc61965fb0267d061c830ac6a6f9f45","CV-V9",0,1,0
+"aortic dissection","2da2fe3c2c3021900548d484cb76bd8f","CV-V9",0,0,1
+"aortic dissection","2fdec0408fb30e570649afe74b8ae366","CV-V9",0,0,1
+"aortic dissection","306f2de810a0375293c14c3c2550c740","CV-V9",0,0,1
+"aortic dissection","30eb61cd1a13088636175da98ef553a0","CV-V9",0,0,1
+"aortic dissection","318f3bc1f95799c748857ec197e97f8c","CV-V9",0,0,1
+"aortic dissection","32d752904d87f71f8afc476b544db001","CV-V9",0,0,1
+"aortic dissection","3353c19be28d490b83b23cb372eb4c96","CV-V9",1,0,0
+"aortic dissection","35e1c33ac51ae610f291d20e06872ca1","CV-V9",0,0,1
+"aortic dissection","3b467bf1a35274f9bcadd5252702ea22","CV-V9",0,0,1
+"aortic dissection","3d5513e52c6b736609e567644ba7a450","CV-V9",0,0,1
+"aortic dissection","3e74470fe2a4d9e488831d0634358e86","CV-V9",1,0,0
+"aortic dissection","499b20089299eda6ee534405b0663fc1","CV-V9",0,0,1
+"aortic dissection","4b869f44ee3db0046cf22e9f394941a9","CV-V9",0,0,1
+"aortic dissection","4d3770a9d68a708e7ec579c128b829b0","CV-V9",0,0,1
+"aortic dissection","4fa5a2735299ca7fcbf8d8ee376f93c5","CV-V9",0,1,0
+"aortic dissection","539c018864a3e56ca4d173c6500bb1fa","CV-V9",0,0,1
+"aortic dissection","53c66c9bfc8eac961f031e4dee65f912","CV-V9",0,1,0
+"aortic dissection","53ee5fa341d6167b62535f106298c424","CV-V9",0,0,1
+"aortic dissection","5426b554b4a421fa47b793164d1d1179","CV-V9",0,0,1
+"aortic dissection","55f5235c2e0f85fcd59bb258cd0e5c42","CV-V9",0,1,0
+"aortic dissection","56b20d17ab65fbc7349076528e379bf6","CV-V9",1,0,0
+"aortic dissection","588a3208b126c03d71f41730ef6f487f","CV-V9",0,1,0
+"aortic dissection","5af16b02055fc2c50cf1085c06725357","CV-V9",0,1,0
+"aortic dissection","5cd5b6a5e8cf3828d7ae0e23a237e1ee","CV-V9",0,0,1
+"aortic dissection","5f8eaf5a9d9ebb4dade9f555703de4c5","CV-V9",0,0,1
+"aortic dissection","63fe2d7d1e82ce85038f106c8f60d92a","CV-V9",0,0,1
+"aortic dissection","64057cb4356349c2a4d0dae9faec7e13","CV-V9",0,0,1
+"aortic dissection","6e24d9aa7f74d8c0b553b925f679aca9","CV-V9",0,0,1
+"aortic dissection","6f5d1b0fa27d296b3e95f7686c600b8a","CV-V9",0,0,1
+"aortic dissection","732648652eab0885d7da8ecc4e752b53","CV-V9",0,1,0
+"aortic dissection","73f65a187579e22828270770e70a774f","CV-V9",0,0,1
+"aortic dissection","78b3189b1bf4846b90ae896f670aff8e","CV-V9",0,0,1
+"aortic dissection","81c8fbae34c91f234c5dcce6f33b2349","CV-V9",0,0,1
+"aortic dissection","82e1ec45bc2248391e8bfe20587215e5","CV-V9",0,0,1
+"aortic dissection","83505f9afc8c9e7b3da0c20b37dce459","CV-V9",0,0,1
+"aortic dissection","849c908048ae4ae12d75cb45dc263135","CV-V9",0,0,1
+"aortic dissection","85c0f4c7925cf765ebf6bbb90fd9d76c","CV-V9",0,0,1
+"aortic dissection","85c29371dc806ff54c1ba0a4189ba3ed","CV-V9",0,1,0
+"aortic dissection","8721a3dca9e50271186e65d9723473ac","CV-V9",0,0,1
+"aortic dissection","87aae72227f790f48206752432e8e831","CV-V9",0,0,1
+"aortic dissection","8876f94aeb687e8895cc92a400b68c50","CV-V9",0,0,1
+"aortic dissection","888daaaee551f1aa7c0ea25532647fa3","CV-V9",0,1,0
+"aortic dissection","8a289caaf8b039fa21f931996866315f","CV-V9",0,0,1
+"aortic dissection","8ba7ad457237599b719f3982c3b94442","CV-V9",0,0,1
+"aortic dissection","8c3cc489003672ced7d083b4ad970aaa","CV-V9",0,0,1
+"aortic dissection","8d8390f292b8ea1a63b053c29c12a3af","CV-V9",0,1,0
+"aortic dissection","901ed024cffa3e03ed50cbe7f4a977c5","CV-V9",0,1,0
+"aortic dissection","90c00a7c3966e09afd4c021ecf481c97","CV-V9",0,0,1
+"aortic dissection","99dd12d39ed9409bfbf342ab396d0006","CV-V9",0,0,1
+"aortic dissection","99e5c4fb27ca76b18d7b712cbb29ea78","CV-V9",0,0,1
+"aortic dissection","9e0ab392ccab023db1b6837e2fbc2186","CV-V9",0,0,1
+"aortic dissection","a25f1522f5d592c725bc79c8515c5499","CV-V9",0,0,1
+"aortic dissection","a5591f4eb5ec0ce228e54b2ba33e7ed2","CV-V9",0,0,1
+"aortic dissection","a783392504814a2c8ee36130dd04cf42","CV-V9",0,0,1
+"aortic dissection","a85c2da48be80960c11b8c5bb30ad2ce","CV-V9",0,1,0
+"aortic dissection","a92dfa6d3ed9c255ee1181c19b4d6faf","CV-V9",0,0,1
+"aortic dissection","ab46b3a9c432659db5fd7516319662b3","CV-V9",0,0,1
+"aortic dissection","abcf7ac89dfe264326f66829739c36aa","CV-V9",0,0,1
+"aortic dissection","b011c0d72f09404dbfeffa878fa7149e","CV-V9",0,0,1
+"aortic dissection","b21c1fbf6d8528ccf6883b983c5ce786","CV-V9",0,1,0
+"aortic dissection","b4d5ec0c1cc7e4fd123029826b1ae74c","CV-V9",0,0,1
+"aortic dissection","b8f128e127f63f40887df35d30599f98","CV-V9",0,0,1
+"aortic dissection","bdcadff11208bbdce69244f961060e28","CV-V9",0,0,1
+"aortic dissection","bfaee172def7e8114a460f2f3519eb98","CV-V9",1,0,0
+"aortic dissection","bfaf380965237cb7a4b227de0a0abf6d","CV-V9",0,1,0
+"aortic dissection","c1dc1c4addf2b7eaed2c0b918ef73024","CV-V9",0,0,1
+"aortic dissection","c4effe7d5446cce2e777e4249a7aa789","CV-V9",0,1,0
+"aortic dissection","c8035dc7e78d1ef4d642d066a8104b17","CV-V9",0,0,1
+"aortic dissection","cbf988bbcea64278c14d553509aee18d","CV-V9",0,0,1
+"aortic dissection","d1cd9353f23d03a5a96019cd4b43ab78","CV-V9",0,0,1
+"aortic dissection","d2d48d76b347e96b52a0735d8e5bcf52","CV-V9",0,0,1
+"aortic dissection","d45f01f567586d94440769e4cbd7b3c7","CV-V9",0,0,1
+"aortic dissection","d67b669e94e26a60e475e5c8f2a45743","CV-V9",1,0,0
+"aortic dissection","dc99b4c4cbbd6cf68a403af152019196","CV-V9",0,0,1
+"aortic dissection","dcd20d6220096ee260de15618b6e1418","CV-V9",0,0,1
+"aortic dissection","e2a94bfb6e734ede3dff36306150e9d3","CV-V9",0,1,0
+"aortic dissection","e511003bc7d8d485af12861df0479e58","CV-V9",0,0,1
+"aortic dissection","e644fa4a113721a47d24e81e74a1cb8f","CV-V9",0,0,1
+"aortic dissection","ed719b89295984c9f6319100e4e93a15","CV-V9",0,0,1
+"aortic dissection","efa740d2d2cda029b0cc7bb8b8db8b22","CV-V9",0,0,1
+"aortic dissection","f04e456bb62b3eadf0a2af8a509bbfa2","CV-V9",0,0,1
+"aortic dissection","f1d86d64fae646d2cf37f05d6a023831","CV-V9",0,0,1
+"aortic dissection","f35a073987fb51c77e80c72f7b91bfb7","CV-V9",0,0,1
+"aortic dissection","04a3faf3453c701bb71c2ebe99969722","ER-R2 (1)",0,1,0
+"aortic dissection","0f05c1a732a6cbfa74772fa2f2cffad8","ER-R2 (1)",0,0,1
+"aortic dissection","0ffbc9ba966bcda2892597d2685291ab","ER-R2 (1)",0,0,1
+"aortic dissection","17743be27ec900cb919a793e389e442d","ER-R2 (1)",0,0,1
+"aortic dissection","19d7261516990569401e5377b90c1304","ER-R2 (1)",0,0,1
+"aortic dissection","1a31ceb259703a3fce34b24bb44609e3","ER-R2 (1)",0,0,1
+"aortic dissection","1b68131d83768e0a95ff2043b0dd72e1","ER-R2 (1)",0,0,1
+"aortic dissection","1cad10dd95573230240fb751a435a88e","ER-R2 (1)",0,1,0
+"aortic dissection","20446bf9b2be196ddeee06e057b44b12","ER-R2 (1)",0,1,0
+"aortic dissection","20e65db89ba4dc9fb867406b2a7136f7","ER-R2 (1)",0,0,1
+"aortic dissection","220f79b9e628e9d691fc8c742353ffe1","ER-R2 (1)",0,0,1
+"aortic dissection","22ea434599cf87cb5468dfa5e99b7fcc","ER-R2 (1)",0,0,1
+"aortic dissection","26face5b88db175a63d1086522d86945","ER-R2 (1)",0,0,1
+"aortic dissection","2820af3d34251be004695e4bd5ef06e5","ER-R2 (1)",0,0,1
+"aortic dissection","284353d76620437814d994718f739803","ER-R2 (1)",0,0,1
+"aortic dissection","290a122fe9e702facf672fff476873ba","ER-R2 (1)",0,0,1
+"aortic dissection","2bc61965fb0267d061c830ac6a6f9f45","ER-R2 (1)",0,0,1
+"aortic dissection","2da2fe3c2c3021900548d484cb76bd8f","ER-R2 (1)",0,0,1
+"aortic dissection","2fdec0408fb30e570649afe74b8ae366","ER-R2 (1)",0,0,1
+"aortic dissection","306f2de810a0375293c14c3c2550c740","ER-R2 (1)",0,0,1
+"aortic dissection","30eb61cd1a13088636175da98ef553a0","ER-R2 (1)",0,0,1
+"aortic dissection","318f3bc1f95799c748857ec197e97f8c","ER-R2 (1)",0,0,1
+"aortic dissection","32d752904d87f71f8afc476b544db001","ER-R2 (1)",0,0,1
+"aortic dissection","3353c19be28d490b83b23cb372eb4c96","ER-R2 (1)",1,0,0
+"aortic dissection","35e1c33ac51ae610f291d20e06872ca1","ER-R2 (1)",0,0,1
+"aortic dissection","3b467bf1a35274f9bcadd5252702ea22","ER-R2 (1)",0,0,1
+"aortic dissection","3d5513e52c6b736609e567644ba7a450","ER-R2 (1)",0,0,1
+"aortic dissection","3e74470fe2a4d9e488831d0634358e86","ER-R2 (1)",1,0,0
+"aortic dissection","499b20089299eda6ee534405b0663fc1","ER-R2 (1)",0,1,0
+"aortic dissection","4b869f44ee3db0046cf22e9f394941a9","ER-R2 (1)",0,0,1
+"aortic dissection","4d3770a9d68a708e7ec579c128b829b0","ER-R2 (1)",0,0,1
+"aortic dissection","4fa5a2735299ca7fcbf8d8ee376f93c5","ER-R2 (1)",0,0,1
+"aortic dissection","539c018864a3e56ca4d173c6500bb1fa","ER-R2 (1)",0,0,1
+"aortic dissection","53c66c9bfc8eac961f031e4dee65f912","ER-R2 (1)",0,0,1
+"aortic dissection","53ee5fa341d6167b62535f106298c424","ER-R2 (1)",0,0,1
+"aortic dissection","5426b554b4a421fa47b793164d1d1179","ER-R2 (1)",0,0,1
+"aortic dissection","55f5235c2e0f85fcd59bb258cd0e5c42","ER-R2 (1)",0,0,1
+"aortic dissection","56b20d17ab65fbc7349076528e379bf6","ER-R2 (1)",0,0,1
+"aortic dissection","588a3208b126c03d71f41730ef6f487f","ER-R2 (1)",1,0,0
+"aortic dissection","5af16b02055fc2c50cf1085c06725357","ER-R2 (1)",0,0,1
+"aortic dissection","5cd5b6a5e8cf3828d7ae0e23a237e1ee","ER-R2 (1)",0,0,1
+"aortic dissection","5f8eaf5a9d9ebb4dade9f555703de4c5","ER-R2 (1)",0,0,1
+"aortic dissection","63fe2d7d1e82ce85038f106c8f60d92a","ER-R2 (1)",0,0,1
+"aortic dissection","64057cb4356349c2a4d0dae9faec7e13","ER-R2 (1)",0,0,1
+"aortic dissection","6e24d9aa7f74d8c0b553b925f679aca9","ER-R2 (1)",0,1,0
+"aortic dissection","6f5d1b0fa27d296b3e95f7686c600b8a","ER-R2 (1)",0,0,1
+"aortic dissection","732648652eab0885d7da8ecc4e752b53","ER-R2 (1)",0,0,1
+"aortic dissection","73f65a187579e22828270770e70a774f","ER-R2 (1)",0,0,1
+"aortic dissection","78b3189b1bf4846b90ae896f670aff8e","ER-R2 (1)",0,0,1
+"aortic dissection","81c8fbae34c91f234c5dcce6f33b2349","ER-R2 (1)",0,0,1
+"aortic dissection","82e1ec45bc2248391e8bfe20587215e5","ER-R2 (1)",0,0,1
+"aortic dissection","83505f9afc8c9e7b3da0c20b37dce459","ER-R2 (1)",0,0,1
+"aortic dissection","849c908048ae4ae12d75cb45dc263135","ER-R2 (1)",0,0,1
+"aortic dissection","85c0f4c7925cf765ebf6bbb90fd9d76c","ER-R2 (1)",0,0,1
+"aortic dissection","85c29371dc806ff54c1ba0a4189ba3ed","ER-R2 (1)",0,0,1
+"aortic dissection","8721a3dca9e50271186e65d9723473ac","ER-R2 (1)",0,0,1
+"aortic dissection","87aae72227f790f48206752432e8e831","ER-R2 (1)",0,0,1
+"aortic dissection","8876f94aeb687e8895cc92a400b68c50","ER-R2 (1)",0,0,1
+"aortic dissection","888daaaee551f1aa7c0ea25532647fa3","ER-R2 (1)",0,0,1
+"aortic dissection","8a289caaf8b039fa21f931996866315f","ER-R2 (1)",0,0,1
+"aortic dissection","8ba7ad457237599b719f3982c3b94442","ER-R2 (1)",0,0,1
+"aortic dissection","8c3cc489003672ced7d083b4ad970aaa","ER-R2 (1)",1,0,0
+"aortic dissection","8d8390f292b8ea1a63b053c29c12a3af","ER-R2 (1)",0,0,1
+"aortic dissection","901ed024cffa3e03ed50cbe7f4a977c5","ER-R2 (1)",0,0,1
+"aortic dissection","90c00a7c3966e09afd4c021ecf481c97","ER-R2 (1)",0,0,1
+"aortic dissection","99dd12d39ed9409bfbf342ab396d0006","ER-R2 (1)",0,0,1
+"aortic dissection","99e5c4fb27ca76b18d7b712cbb29ea78","ER-R2 (1)",0,0,1
+"aortic dissection","9e0ab392ccab023db1b6837e2fbc2186","ER-R2 (1)",0,0,1
+"aortic dissection","a25f1522f5d592c725bc79c8515c5499","ER-R2 (1)",0,0,1
+"aortic dissection","a5591f4eb5ec0ce228e54b2ba33e7ed2","ER-R2 (1)",1,0,0
+"aortic dissection","a783392504814a2c8ee36130dd04cf42","ER-R2 (1)",0,0,1
+"aortic dissection","a85c2da48be80960c11b8c5bb30ad2ce","ER-R2 (1)",0,0,1
+"aortic dissection","a92dfa6d3ed9c255ee1181c19b4d6faf","ER-R2 (1)",0,0,1
+"aortic dissection","ab46b3a9c432659db5fd7516319662b3","ER-R2 (1)",0,0,1
+"aortic dissection","abcf7ac89dfe264326f66829739c36aa","ER-R2 (1)",0,0,1
+"aortic dissection","b011c0d72f09404dbfeffa878fa7149e","ER-R2 (1)",0,0,1
+"aortic dissection","b21c1fbf6d8528ccf6883b983c5ce786","ER-R2 (1)",0,0,1
+"aortic dissection","b4d5ec0c1cc7e4fd123029826b1ae74c","ER-R2 (1)",0,0,1
+"aortic dissection","b8f128e127f63f40887df35d30599f98","ER-R2 (1)",0,0,1
+"aortic dissection","bdcadff11208bbdce69244f961060e28","ER-R2 (1)",1,0,0
+"aortic dissection","bfaee172def7e8114a460f2f3519eb98","ER-R2 (1)",0,0,1
+"aortic dissection","bfaf380965237cb7a4b227de0a0abf6d","ER-R2 (1)",0,0,1
+"aortic dissection","c1dc1c4addf2b7eaed2c0b918ef73024","ER-R2 (1)",0,0,1
+"aortic dissection","c4effe7d5446cce2e777e4249a7aa789","ER-R2 (1)",0,0,1
+"aortic dissection","c8035dc7e78d1ef4d642d066a8104b17","ER-R2 (1)",0,0,1
+"aortic dissection","cbf988bbcea64278c14d553509aee18d","ER-R2 (1)",0,0,1
+"aortic dissection","d1cd9353f23d03a5a96019cd4b43ab78","ER-R2 (1)",0,1,0
+"aortic dissection","d2d48d76b347e96b52a0735d8e5bcf52","ER-R2 (1)",0,0,1
+"aortic dissection","d45f01f567586d94440769e4cbd7b3c7","ER-R2 (1)",0,0,1
+"aortic dissection","d67b669e94e26a60e475e5c8f2a45743","ER-R2 (1)",1,0,0
+"aortic dissection","dc99b4c4cbbd6cf68a403af152019196","ER-R2 (1)",1,0,0
+"aortic dissection","dcd20d6220096ee260de15618b6e1418","ER-R2 (1)",0,0,1
+"aortic dissection","e2a94bfb6e734ede3dff36306150e9d3","ER-R2 (1)",0,1,0
+"aortic dissection","e511003bc7d8d485af12861df0479e58","ER-R2 (1)",0,0,1
+"aortic dissection","e644fa4a113721a47d24e81e74a1cb8f","ER-R2 (1)",0,0,1
+"aortic dissection","ed719b89295984c9f6319100e4e93a15","ER-R2 (1)",0,0,1
+"aortic dissection","efa740d2d2cda029b0cc7bb8b8db8b22","ER-R2 (1)",0,0,1
+"aortic dissection","f04e456bb62b3eadf0a2af8a509bbfa2","ER-R2 (1)",0,0,1
+"aortic dissection","f1d86d64fae646d2cf37f05d6a023831","ER-R2 (1)",0,0,1
+"aortic dissection","f35a073987fb51c77e80c72f7b91bfb7","ER-R2 (1)",0,0,1
+"aortic dissection","04a3faf3453c701bb71c2ebe99969722","ER-R3 (5)",1,0,0
+"aortic dissection","0f05c1a732a6cbfa74772fa2f2cffad8","ER-R3 (5)",0,0,1
+"aortic dissection","0ffbc9ba966bcda2892597d2685291ab","ER-R3 (5)",1,0,0
+"aortic dissection","17743be27ec900cb919a793e389e442d","ER-R3 (5)",0,0,1
+"aortic dissection","19d7261516990569401e5377b90c1304","ER-R3 (5)",1,0,0
+"aortic dissection","1a31ceb259703a3fce34b24bb44609e3","ER-R3 (5)",0,0,1
+"aortic dissection","1b68131d83768e0a95ff2043b0dd72e1","ER-R3 (5)",0,0,1
+"aortic dissection","1cad10dd95573230240fb751a435a88e","ER-R3 (5)",1,0,0
+"aortic dissection","20446bf9b2be196ddeee06e057b44b12","ER-R3 (5)",1,0,0
+"aortic dissection","20e65db89ba4dc9fb867406b2a7136f7","ER-R3 (5)",1,0,0
+"aortic dissection","220f79b9e628e9d691fc8c742353ffe1","ER-R3 (5)",0,0,1
+"aortic dissection","22ea434599cf87cb5468dfa5e99b7fcc","ER-R3 (5)",0,0,1
+"aortic dissection","26face5b88db175a63d1086522d86945","ER-R3 (5)",0,0,1
+"aortic dissection","2820af3d34251be004695e4bd5ef06e5","ER-R3 (5)",0,0,1
+"aortic dissection","284353d76620437814d994718f739803","ER-R3 (5)",0,0,1
+"aortic dissection","290a122fe9e702facf672fff476873ba","ER-R3 (5)",0,0,1
+"aortic dissection","2bc61965fb0267d061c830ac6a6f9f45","ER-R3 (5)",0,0,1
+"aortic dissection","2da2fe3c2c3021900548d484cb76bd8f","ER-R3 (5)",0,0,1
+"aortic dissection","2fdec0408fb30e570649afe74b8ae366","ER-R3 (5)",1,0,0
+"aortic dissection","306f2de810a0375293c14c3c2550c740","ER-R3 (5)",0,0,1
+"aortic dissection","30eb61cd1a13088636175da98ef553a0","ER-R3 (5)",0,0,1
+"aortic dissection","318f3bc1f95799c748857ec197e97f8c","ER-R3 (5)",1,0,0
+"aortic dissection","32d752904d87f71f8afc476b544db001","ER-R3 (5)",0,0,1
+"aortic dissection","3353c19be28d490b83b23cb372eb4c96","ER-R3 (5)",1,0,0
+"aortic dissection","35e1c33ac51ae610f291d20e06872ca1","ER-R3 (5)",0,0,1
+"aortic dissection","3b467bf1a35274f9bcadd5252702ea22","ER-R3 (5)",0,0,1
+"aortic dissection","3d5513e52c6b736609e567644ba7a450","ER-R3 (5)",0,0,1
+"aortic dissection","3e74470fe2a4d9e488831d0634358e86","ER-R3 (5)",1,0,0
+"aortic dissection","499b20089299eda6ee534405b0663fc1","ER-R3 (5)",1,0,0
+"aortic dissection","4b869f44ee3db0046cf22e9f394941a9","ER-R3 (5)",0,0,1
+"aortic dissection","4d3770a9d68a708e7ec579c128b829b0","ER-R3 (5)",0,0,1
+"aortic dissection","4fa5a2735299ca7fcbf8d8ee376f93c5","ER-R3 (5)",0,0,1
+"aortic dissection","539c018864a3e56ca4d173c6500bb1fa","ER-R3 (5)",0,0,1
+"aortic dissection","53c66c9bfc8eac961f031e4dee65f912","ER-R3 (5)",1,0,0
+"aortic dissection","53ee5fa341d6167b62535f106298c424","ER-R3 (5)",0,0,1
+"aortic dissection","5426b554b4a421fa47b793164d1d1179","ER-R3 (5)",0,0,1
+"aortic dissection","55f5235c2e0f85fcd59bb258cd0e5c42","ER-R3 (5)",0,0,1
+"aortic dissection","56b20d17ab65fbc7349076528e379bf6","ER-R3 (5)",0,0,1
+"aortic dissection","588a3208b126c03d71f41730ef6f487f","ER-R3 (5)",1,0,0
+"aortic dissection","5af16b02055fc2c50cf1085c06725357","ER-R3 (5)",0,0,1
+"aortic dissection","5cd5b6a5e8cf3828d7ae0e23a237e1ee","ER-R3 (5)",0,0,1
+"aortic dissection","5f8eaf5a9d9ebb4dade9f555703de4c5","ER-R3 (5)",0,0,1
+"aortic dissection","63fe2d7d1e82ce85038f106c8f60d92a","ER-R3 (5)",0,0,1
+"aortic dissection","64057cb4356349c2a4d0dae9faec7e13","ER-R3 (5)",0,0,1
+"aortic dissection","6e24d9aa7f74d8c0b553b925f679aca9","ER-R3 (5)",0,0,1
+"aortic dissection","6f5d1b0fa27d296b3e95f7686c600b8a","ER-R3 (5)",0,0,1
+"aortic dissection","732648652eab0885d7da8ecc4e752b53","ER-R3 (5)",0,0,1
+"aortic dissection","73f65a187579e22828270770e70a774f","ER-R3 (5)",0,0,1
+"aortic dissection","78b3189b1bf4846b90ae896f670aff8e","ER-R3 (5)",0,0,1
+"aortic dissection","81c8fbae34c91f234c5dcce6f33b2349","ER-R3 (5)",0,0,1
+"aortic dissection","82e1ec45bc2248391e8bfe20587215e5","ER-R3 (5)",0,0,1
+"aortic dissection","83505f9afc8c9e7b3da0c20b37dce459","ER-R3 (5)",0,0,1
+"aortic dissection","849c908048ae4ae12d75cb45dc263135","ER-R3 (5)",0,0,1
+"aortic dissection","85c0f4c7925cf765ebf6bbb90fd9d76c","ER-R3 (5)",0,0,1
+"aortic dissection","85c29371dc806ff54c1ba0a4189ba3ed","ER-R3 (5)",0,0,1
+"aortic dissection","8721a3dca9e50271186e65d9723473ac","ER-R3 (5)",0,0,1
+"aortic dissection","87aae72227f790f48206752432e8e831","ER-R3 (5)",0,0,1
+"aortic dissection","8876f94aeb687e8895cc92a400b68c50","ER-R3 (5)",0,0,1
+"aortic dissection","888daaaee551f1aa7c0ea25532647fa3","ER-R3 (5)",0,0,1
+"aortic dissection","8a289caaf8b039fa21f931996866315f","ER-R3 (5)",0,0,1
+"aortic dissection","8ba7ad457237599b719f3982c3b94442","ER-R3 (5)",0,0,1
+"aortic dissection","8c3cc489003672ced7d083b4ad970aaa","ER-R3 (5)",0,0,1
+"aortic dissection","8d8390f292b8ea1a63b053c29c12a3af","ER-R3 (5)",0,0,1
+"aortic dissection","901ed024cffa3e03ed50cbe7f4a977c5","ER-R3 (5)",0,0,1
+"aortic dissection","90c00a7c3966e09afd4c021ecf481c97","ER-R3 (5)",0,0,1
+"aortic dissection","99dd12d39ed9409bfbf342ab396d0006","ER-R3 (5)",0,0,1
+"aortic dissection","99e5c4fb27ca76b18d7b712cbb29ea78","ER-R3 (5)",1,0,0
+"aortic dissection","9e0ab392ccab023db1b6837e2fbc2186","ER-R3 (5)",0,0,1
+"aortic dissection","a25f1522f5d592c725bc79c8515c5499","ER-R3 (5)",0,0,1
+"aortic dissection","a5591f4eb5ec0ce228e54b2ba33e7ed2","ER-R3 (5)",0,0,1
+"aortic dissection","a783392504814a2c8ee36130dd04cf42","ER-R3 (5)",0,0,1
+"aortic dissection","a85c2da48be80960c11b8c5bb30ad2ce","ER-R3 (5)",0,0,1
+"aortic dissection","a92dfa6d3ed9c255ee1181c19b4d6faf","ER-R3 (5)",0,0,1
+"aortic dissection","ab46b3a9c432659db5fd7516319662b3","ER-R3 (5)",1,0,0
+"aortic dissection","abcf7ac89dfe264326f66829739c36aa","ER-R3 (5)",0,0,1
+"aortic dissection","b011c0d72f09404dbfeffa878fa7149e","ER-R3 (5)",0,0,1
+"aortic dissection","b21c1fbf6d8528ccf6883b983c5ce786","ER-R3 (5)",1,0,0
+"aortic dissection","b4d5ec0c1cc7e4fd123029826b1ae74c","ER-R3 (5)",0,0,1
+"aortic dissection","b8f128e127f63f40887df35d30599f98","ER-R3 (5)",1,0,0
+"aortic dissection","bdcadff11208bbdce69244f961060e28","ER-R3 (5)",0,0,1
+"aortic dissection","bfaee172def7e8114a460f2f3519eb98","ER-R3 (5)",0,0,1
+"aortic dissection","bfaf380965237cb7a4b227de0a0abf6d","ER-R3 (5)",0,0,1
+"aortic dissection","c1dc1c4addf2b7eaed2c0b918ef73024","ER-R3 (5)",0,0,1
+"aortic dissection","c4effe7d5446cce2e777e4249a7aa789","ER-R3 (5)",1,0,0
+"aortic dissection","c8035dc7e78d1ef4d642d066a8104b17","ER-R3 (5)",1,0,0
+"aortic dissection","cbf988bbcea64278c14d553509aee18d","ER-R3 (5)",0,0,1
+"aortic dissection","d1cd9353f23d03a5a96019cd4b43ab78","ER-R3 (5)",0,0,1
+"aortic dissection","d2d48d76b347e96b52a0735d8e5bcf52","ER-R3 (5)",1,0,0
+"aortic dissection","d45f01f567586d94440769e4cbd7b3c7","ER-R3 (5)",0,0,1
+"aortic dissection","d67b669e94e26a60e475e5c8f2a45743","ER-R3 (5)",1,0,0
+"aortic dissection","dc99b4c4cbbd6cf68a403af152019196","ER-R3 (5)",0,0,1
+"aortic dissection","dcd20d6220096ee260de15618b6e1418","ER-R3 (5)",1,0,0
+"aortic dissection","e2a94bfb6e734ede3dff36306150e9d3","ER-R3 (5)",1,0,0
+"aortic dissection","e511003bc7d8d485af12861df0479e58","ER-R3 (5)",1,0,0
+"aortic dissection","e644fa4a113721a47d24e81e74a1cb8f","ER-R3 (5)",1,0,0
+"aortic dissection","ed719b89295984c9f6319100e4e93a15","ER-R3 (5)",0,0,1
+"aortic dissection","efa740d2d2cda029b0cc7bb8b8db8b22","ER-R3 (5)",0,0,1
+"aortic dissection","f04e456bb62b3eadf0a2af8a509bbfa2","ER-R3 (5)",1,0,0
+"aortic dissection","f1d86d64fae646d2cf37f05d6a023831","ER-R3 (5)",1,0,0
+"aortic dissection","f35a073987fb51c77e80c72f7b91bfb7","ER-R3 (5)",0,0,1
+"aortic dissection","04a3faf3453c701bb71c2ebe99969722","ER-V15",0,0,1
+"aortic dissection","0f05c1a732a6cbfa74772fa2f2cffad8","ER-V15",0,0,1
+"aortic dissection","0ffbc9ba966bcda2892597d2685291ab","ER-V15",1,0,0
+"aortic dissection","17743be27ec900cb919a793e389e442d","ER-V15",0,0,1
+"aortic dissection","19d7261516990569401e5377b90c1304","ER-V15",0,0,1
+"aortic dissection","1a31ceb259703a3fce34b24bb44609e3","ER-V15",0,0,1
+"aortic dissection","1b68131d83768e0a95ff2043b0dd72e1","ER-V15",0,0,1
+"aortic dissection","1cad10dd95573230240fb751a435a88e","ER-V15",0,0,1
+"aortic dissection","20446bf9b2be196ddeee06e057b44b12","ER-V15",1,0,0
+"aortic dissection","20e65db89ba4dc9fb867406b2a7136f7","ER-V15",0,0,1
+"aortic dissection","220f79b9e628e9d691fc8c742353ffe1","ER-V15",0,1,0
+"aortic dissection","22ea434599cf87cb5468dfa5e99b7fcc","ER-V15",1,0,0
+"aortic dissection","26face5b88db175a63d1086522d86945","ER-V15",1,0,0
+"aortic dissection","2820af3d34251be004695e4bd5ef06e5","ER-V15",0,0,1
+"aortic dissection","284353d76620437814d994718f739803","ER-V15",1,0,0
+"aortic dissection","290a122fe9e702facf672fff476873ba","ER-V15",1,0,0
+"aortic dissection","2bc61965fb0267d061c830ac6a6f9f45","ER-V15",0,1,0
+"aortic dissection","2da2fe3c2c3021900548d484cb76bd8f","ER-V15",0,0,1
+"aortic dissection","2fdec0408fb30e570649afe74b8ae366","ER-V15",1,0,0
+"aortic dissection","306f2de810a0375293c14c3c2550c740","ER-V15",0,1,0
+"aortic dissection","30eb61cd1a13088636175da98ef553a0","ER-V15",0,1,0
+"aortic dissection","318f3bc1f95799c748857ec197e97f8c","ER-V15",0,0,1
+"aortic dissection","32d752904d87f71f8afc476b544db001","ER-V15",0,1,0
+"aortic dissection","3353c19be28d490b83b23cb372eb4c96","ER-V15",0,0,1
+"aortic dissection","35e1c33ac51ae610f291d20e06872ca1","ER-V15",0,1,0
+"aortic dissection","3b467bf1a35274f9bcadd5252702ea22","ER-V15",0,0,1
+"aortic dissection","3d5513e52c6b736609e567644ba7a450","ER-V15",0,1,0
+"aortic dissection","3e74470fe2a4d9e488831d0634358e86","ER-V15",1,0,0
+"aortic dissection","499b20089299eda6ee534405b0663fc1","ER-V15",1,0,0
+"aortic dissection","4b869f44ee3db0046cf22e9f394941a9","ER-V15",0,0,1
+"aortic dissection","4d3770a9d68a708e7ec579c128b829b0","ER-V15",1,0,0
+"aortic dissection","4fa5a2735299ca7fcbf8d8ee376f93c5","ER-V15",0,1,0
+"aortic dissection","539c018864a3e56ca4d173c6500bb1fa","ER-V15",1,0,0
+"aortic dissection","53c66c9bfc8eac961f031e4dee65f912","ER-V15",0,1,0
+"aortic dissection","53ee5fa341d6167b62535f106298c424","ER-V15",0,0,1
+"aortic dissection","5426b554b4a421fa47b793164d1d1179","ER-V15",0,0,1
+"aortic dissection","55f5235c2e0f85fcd59bb258cd0e5c42","ER-V15",0,1,0
+"aortic dissection","56b20d17ab65fbc7349076528e379bf6","ER-V15",1,0,0
+"aortic dissection","588a3208b126c03d71f41730ef6f487f","ER-V15",0,0,1
+"aortic dissection","5af16b02055fc2c50cf1085c06725357","ER-V15",0,1,0
+"aortic dissection","5cd5b6a5e8cf3828d7ae0e23a237e1ee","ER-V15",1,0,0
+"aortic dissection","5f8eaf5a9d9ebb4dade9f555703de4c5","ER-V15",0,1,0
+"aortic dissection","63fe2d7d1e82ce85038f106c8f60d92a","ER-V15",1,0,0
+"aortic dissection","64057cb4356349c2a4d0dae9faec7e13","ER-V15",0,0,1
+"aortic dissection","6e24d9aa7f74d8c0b553b925f679aca9","ER-V15",1,0,0
+"aortic dissection","6f5d1b0fa27d296b3e95f7686c600b8a","ER-V15",0,0,1
+"aortic dissection","732648652eab0885d7da8ecc4e752b53","ER-V15",1,0,0
+"aortic dissection","73f65a187579e22828270770e70a774f","ER-V15",0,0,1
+"aortic dissection","78b3189b1bf4846b90ae896f670aff8e","ER-V15",0,0,1
+"aortic dissection","81c8fbae34c91f234c5dcce6f33b2349","ER-V15",1,0,0
+"aortic dissection","82e1ec45bc2248391e8bfe20587215e5","ER-V15",0,1,0
+"aortic dissection","83505f9afc8c9e7b3da0c20b37dce459","ER-V15",0,0,1
+"aortic dissection","849c908048ae4ae12d75cb45dc263135","ER-V15",1,0,0
+"aortic dissection","85c0f4c7925cf765ebf6bbb90fd9d76c","ER-V15",0,0,1
+"aortic dissection","85c29371dc806ff54c1ba0a4189ba3ed","ER-V15",0,1,0
+"aortic dissection","8721a3dca9e50271186e65d9723473ac","ER-V15",0,1,0
+"aortic dissection","87aae72227f790f48206752432e8e831","ER-V15",0,1,0
+"aortic dissection","8876f94aeb687e8895cc92a400b68c50","ER-V15",0,1,0
+"aortic dissection","888daaaee551f1aa7c0ea25532647fa3","ER-V15",0,0,1
+"aortic dissection","8a289caaf8b039fa21f931996866315f","ER-V15",0,0,1
+"aortic dissection","8ba7ad457237599b719f3982c3b94442","ER-V15",0,0,1
+"aortic dissection","8c3cc489003672ced7d083b4ad970aaa","ER-V15",1,0,0
+"aortic dissection","8d8390f292b8ea1a63b053c29c12a3af","ER-V15",0,0,1
+"aortic dissection","901ed024cffa3e03ed50cbe7f4a977c5","ER-V15",0,1,0
+"aortic dissection","90c00a7c3966e09afd4c021ecf481c97","ER-V15",0,1,0
+"aortic dissection","99dd12d39ed9409bfbf342ab396d0006","ER-V15",1,0,0
+"aortic dissection","99e5c4fb27ca76b18d7b712cbb29ea78","ER-V15",0,0,1
+"aortic dissection","9e0ab392ccab023db1b6837e2fbc2186","ER-V15",0,0,1
+"aortic dissection","a25f1522f5d592c725bc79c8515c5499","ER-V15",1,0,0
+"aortic dissection","a5591f4eb5ec0ce228e54b2ba33e7ed2","ER-V15",0,0,1
+"aortic dissection","a783392504814a2c8ee36130dd04cf42","ER-V15",0,0,1
+"aortic dissection","a85c2da48be80960c11b8c5bb30ad2ce","ER-V15",0,1,0
+"aortic dissection","a92dfa6d3ed9c255ee1181c19b4d6faf","ER-V15",0,0,1
+"aortic dissection","ab46b3a9c432659db5fd7516319662b3","ER-V15",1,0,0
+"aortic dissection","abcf7ac89dfe264326f66829739c36aa","ER-V15",0,0,1
+"aortic dissection","b011c0d72f09404dbfeffa878fa7149e","ER-V15",0,1,0
+"aortic dissection","b21c1fbf6d8528ccf6883b983c5ce786","ER-V15",1,0,0
+"aortic dissection","b4d5ec0c1cc7e4fd123029826b1ae74c","ER-V15",1,0,0
+"aortic dissection","b8f128e127f63f40887df35d30599f98","ER-V15",0,1,0
+"aortic dissection","bdcadff11208bbdce69244f961060e28","ER-V15",0,0,1
+"aortic dissection","bfaee172def7e8114a460f2f3519eb98","ER-V15",1,0,0
+"aortic dissection","bfaf380965237cb7a4b227de0a0abf6d","ER-V15",1,0,0
+"aortic dissection","c1dc1c4addf2b7eaed2c0b918ef73024","ER-V15",1,0,0
+"aortic dissection","c4effe7d5446cce2e777e4249a7aa789","ER-V15",0,0,1
+"aortic dissection","c8035dc7e78d1ef4d642d066a8104b17","ER-V15",0,1,0
+"aortic dissection","cbf988bbcea64278c14d553509aee18d","ER-V15",0,0,1
+"aortic dissection","d1cd9353f23d03a5a96019cd4b43ab78","ER-V15",0,0,1
+"aortic dissection","d2d48d76b347e96b52a0735d8e5bcf52","ER-V15",1,0,0
+"aortic dissection","d45f01f567586d94440769e4cbd7b3c7","ER-V15",1,0,0
+"aortic dissection","d67b669e94e26a60e475e5c8f2a45743","ER-V15",1,0,0
+"aortic dissection","dc99b4c4cbbd6cf68a403af152019196","ER-V15",0,0,1
+"aortic dissection","dcd20d6220096ee260de15618b6e1418","ER-V15",0,0,1
+"aortic dissection","e2a94bfb6e734ede3dff36306150e9d3","ER-V15",1,0,0
+"aortic dissection","e511003bc7d8d485af12861df0479e58","ER-V15",0,0,1
+"aortic dissection","e644fa4a113721a47d24e81e74a1cb8f","ER-V15",1,0,0
+"aortic dissection","ed719b89295984c9f6319100e4e93a15","ER-V15",0,0,1
+"aortic dissection","efa740d2d2cda029b0cc7bb8b8db8b22","ER-V15",1,0,0
+"aortic dissection","f04e456bb62b3eadf0a2af8a509bbfa2","ER-V15",0,0,1
+"aortic dissection","f1d86d64fae646d2cf37f05d6a023831","ER-V15",0,0,1
+"aortic dissection","f35a073987fb51c77e80c72f7b91bfb7","ER-V15",1,0,0
+"aortic dissection","04a3faf3453c701bb71c2ebe99969722","ER-V5 (2)",0,0,1
+"aortic dissection","0f05c1a732a6cbfa74772fa2f2cffad8","ER-V5 (2)",0,0,1
+"aortic dissection","0ffbc9ba966bcda2892597d2685291ab","ER-V5 (2)",0,0,1
+"aortic dissection","17743be27ec900cb919a793e389e442d","ER-V5 (2)",0,0,1
+"aortic dissection","19d7261516990569401e5377b90c1304","ER-V5 (2)",0,0,1
+"aortic dissection","1a31ceb259703a3fce34b24bb44609e3","ER-V5 (2)",0,0,1
+"aortic dissection","1b68131d83768e0a95ff2043b0dd72e1","ER-V5 (2)",0,0,1
+"aortic dissection","1cad10dd95573230240fb751a435a88e","ER-V5 (2)",1,0,0
+"aortic dissection","20446bf9b2be196ddeee06e057b44b12","ER-V5 (2)",0,0,1
+"aortic dissection","20e65db89ba4dc9fb867406b2a7136f7","ER-V5 (2)",1,0,0
+"aortic dissection","220f79b9e628e9d691fc8c742353ffe1","ER-V5 (2)",0,0,1
+"aortic dissection","22ea434599cf87cb5468dfa5e99b7fcc","ER-V5 (2)",0,0,1
+"aortic dissection","26face5b88db175a63d1086522d86945","ER-V5 (2)",0,0,1
+"aortic dissection","2820af3d34251be004695e4bd5ef06e5","ER-V5 (2)",0,0,1
+"aortic dissection","284353d76620437814d994718f739803","ER-V5 (2)",1,0,0
+"aortic dissection","290a122fe9e702facf672fff476873ba","ER-V5 (2)",0,0,1
+"aortic dissection","2bc61965fb0267d061c830ac6a6f9f45","ER-V5 (2)",0,0,1
+"aortic dissection","2da2fe3c2c3021900548d484cb76bd8f","ER-V5 (2)",0,0,1
+"aortic dissection","2fdec0408fb30e570649afe74b8ae366","ER-V5 (2)",0,0,1
+"aortic dissection","306f2de810a0375293c14c3c2550c740","ER-V5 (2)",0,0,1
+"aortic dissection","30eb61cd1a13088636175da98ef553a0","ER-V5 (2)",0,0,1
+"aortic dissection","318f3bc1f95799c748857ec197e97f8c","ER-V5 (2)",0,0,1
+"aortic dissection","32d752904d87f71f8afc476b544db001","ER-V5 (2)",1,0,0
+"aortic dissection","3353c19be28d490b83b23cb372eb4c96","ER-V5 (2)",1,0,0
+"aortic dissection","35e1c33ac51ae610f291d20e06872ca1","ER-V5 (2)",0,0,1
+"aortic dissection","3b467bf1a35274f9bcadd5252702ea22","ER-V5 (2)",0,0,1
+"aortic dissection","3d5513e52c6b736609e567644ba7a450","ER-V5 (2)",0,0,1
+"aortic dissection","3e74470fe2a4d9e488831d0634358e86","ER-V5 (2)",0,0,1
+"aortic dissection","499b20089299eda6ee534405b0663fc1","ER-V5 (2)",1,0,0
+"aortic dissection","4b869f44ee3db0046cf22e9f394941a9","ER-V5 (2)",0,0,1
+"aortic dissection","4d3770a9d68a708e7ec579c128b829b0","ER-V5 (2)",0,0,1
+"aortic dissection","4fa5a2735299ca7fcbf8d8ee376f93c5","ER-V5 (2)",0,0,1
+"aortic dissection","539c018864a3e56ca4d173c6500bb1fa","ER-V5 (2)",1,0,0
+"aortic dissection","53c66c9bfc8eac961f031e4dee65f912","ER-V5 (2)",0,0,1
+"aortic dissection","53ee5fa341d6167b62535f106298c424","ER-V5 (2)",0,0,1
+"aortic dissection","5426b554b4a421fa47b793164d1d1179","ER-V5 (2)",1,0,0
+"aortic dissection","55f5235c2e0f85fcd59bb258cd0e5c42","ER-V5 (2)",0,0,1
+"aortic dissection","56b20d17ab65fbc7349076528e379bf6","ER-V5 (2)",1,0,0
+"aortic dissection","588a3208b126c03d71f41730ef6f487f","ER-V5 (2)",1,0,0
+"aortic dissection","5af16b02055fc2c50cf1085c06725357","ER-V5 (2)",0,0,1
+"aortic dissection","5cd5b6a5e8cf3828d7ae0e23a237e1ee","ER-V5 (2)",0,0,1
+"aortic dissection","5f8eaf5a9d9ebb4dade9f555703de4c5","ER-V5 (2)",0,0,1
+"aortic dissection","63fe2d7d1e82ce85038f106c8f60d92a","ER-V5 (2)",0,0,1
+"aortic dissection","64057cb4356349c2a4d0dae9faec7e13","ER-V5 (2)",1,0,0
+"aortic dissection","6e24d9aa7f74d8c0b553b925f679aca9","ER-V5 (2)",0,0,1
+"aortic dissection","6f5d1b0fa27d296b3e95f7686c600b8a","ER-V5 (2)",0,0,1
+"aortic dissection","732648652eab0885d7da8ecc4e752b53","ER-V5 (2)",0,0,1
+"aortic dissection","73f65a187579e22828270770e70a774f","ER-V5 (2)",0,0,1
+"aortic dissection","78b3189b1bf4846b90ae896f670aff8e","ER-V5 (2)",0,0,1
+"aortic dissection","81c8fbae34c91f234c5dcce6f33b2349","ER-V5 (2)",0,0,1
+"aortic dissection","82e1ec45bc2248391e8bfe20587215e5","ER-V5 (2)",0,0,1
+"aortic dissection","83505f9afc8c9e7b3da0c20b37dce459","ER-V5 (2)",0,0,1
+"aortic dissection","849c908048ae4ae12d75cb45dc263135","ER-V5 (2)",0,0,1
+"aortic dissection","85c0f4c7925cf765ebf6bbb90fd9d76c","ER-V5 (2)",0,0,1
+"aortic dissection","85c29371dc806ff54c1ba0a4189ba3ed","ER-V5 (2)",0,0,1
+"aortic dissection","8721a3dca9e50271186e65d9723473ac","ER-V5 (2)",0,0,1
+"aortic dissection","87aae72227f790f48206752432e8e831","ER-V5 (2)",0,0,1
+"aortic dissection","8876f94aeb687e8895cc92a400b68c50","ER-V5 (2)",0,0,1
+"aortic dissection","888daaaee551f1aa7c0ea25532647fa3","ER-V5 (2)",0,0,1
+"aortic dissection","8a289caaf8b039fa21f931996866315f","ER-V5 (2)",0,0,1
+"aortic dissection","8ba7ad457237599b719f3982c3b94442","ER-V5 (2)",0,0,1
+"aortic dissection","8c3cc489003672ced7d083b4ad970aaa","ER-V5 (2)",0,0,1
+"aortic dissection","8d8390f292b8ea1a63b053c29c12a3af","ER-V5 (2)",0,0,1
+"aortic dissection","901ed024cffa3e03ed50cbe7f4a977c5","ER-V5 (2)",0,0,1
+"aortic dissection","90c00a7c3966e09afd4c021ecf481c97","ER-V5 (2)",0,0,1
+"aortic dissection","99dd12d39ed9409bfbf342ab396d0006","ER-V5 (2)",0,0,1
+"aortic dissection","99e5c4fb27ca76b18d7b712cbb29ea78","ER-V5 (2)",0,0,1
+"aortic dissection","9e0ab392ccab023db1b6837e2fbc2186","ER-V5 (2)",0,0,1
+"aortic dissection","a25f1522f5d592c725bc79c8515c5499","ER-V5 (2)",0,0,1
+"aortic dissection","a5591f4eb5ec0ce228e54b2ba33e7ed2","ER-V5 (2)",0,0,1
+"aortic dissection","a783392504814a2c8ee36130dd04cf42","ER-V5 (2)",1,0,0
+"aortic dissection","a85c2da48be80960c11b8c5bb30ad2ce","ER-V5 (2)",0,0,1
+"aortic dissection","a92dfa6d3ed9c255ee1181c19b4d6faf","ER-V5 (2)",0,0,1
+"aortic dissection","ab46b3a9c432659db5fd7516319662b3","ER-V5 (2)",1,0,0
+"aortic dissection","abcf7ac89dfe264326f66829739c36aa","ER-V5 (2)",0,0,1
+"aortic dissection","b011c0d72f09404dbfeffa878fa7149e","ER-V5 (2)",0,0,1
+"aortic dissection","b21c1fbf6d8528ccf6883b983c5ce786","ER-V5 (2)",1,0,0
+"aortic dissection","b4d5ec0c1cc7e4fd123029826b1ae74c","ER-V5 (2)",0,0,1
+"aortic dissection","b8f128e127f63f40887df35d30599f98","ER-V5 (2)",0,0,1
+"aortic dissection","bdcadff11208bbdce69244f961060e28","ER-V5 (2)",1,0,0
+"aortic dissection","bfaee172def7e8114a460f2f3519eb98","ER-V5 (2)",1,0,0
+"aortic dissection","bfaf380965237cb7a4b227de0a0abf6d","ER-V5 (2)",0,0,1
+"aortic dissection","c1dc1c4addf2b7eaed2c0b918ef73024","ER-V5 (2)",0,0,1
+"aortic dissection","c4effe7d5446cce2e777e4249a7aa789","ER-V5 (2)",0,0,1
+"aortic dissection","c8035dc7e78d1ef4d642d066a8104b17","ER-V5 (2)",0,0,1
+"aortic dissection","cbf988bbcea64278c14d553509aee18d","ER-V5 (2)",0,0,1
+"aortic dissection","d1cd9353f23d03a5a96019cd4b43ab78","ER-V5 (2)",0,0,1
+"aortic dissection","d2d48d76b347e96b52a0735d8e5bcf52","ER-V5 (2)",0,0,1
+"aortic dissection","d45f01f567586d94440769e4cbd7b3c7","ER-V5 (2)",1,0,0
+"aortic dissection","d67b669e94e26a60e475e5c8f2a45743","ER-V5 (2)",1,0,0
+"aortic dissection","dc99b4c4cbbd6cf68a403af152019196","ER-V5 (2)",0,0,1
+"aortic dissection","dcd20d6220096ee260de15618b6e1418","ER-V5 (2)",0,0,1
+"aortic dissection","e2a94bfb6e734ede3dff36306150e9d3","ER-V5 (2)",0,0,1
+"aortic dissection","e511003bc7d8d485af12861df0479e58","ER-V5 (2)",0,0,1
+"aortic dissection","e644fa4a113721a47d24e81e74a1cb8f","ER-V5 (2)",1,0,0
+"aortic dissection","ed719b89295984c9f6319100e4e93a15","ER-V5 (2)",0,0,1
+"aortic dissection","efa740d2d2cda029b0cc7bb8b8db8b22","ER-V5 (2)",0,0,1
+"aortic dissection","f04e456bb62b3eadf0a2af8a509bbfa2","ER-V5 (2)",0,0,1
+"aortic dissection","f1d86d64fae646d2cf37f05d6a023831","ER-V5 (2)",0,0,1
+"aortic dissection","f35a073987fb51c77e80c72f7b91bfb7","ER-V5 (2)",1,0,0
